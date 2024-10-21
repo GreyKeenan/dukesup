@@ -9,9 +9,10 @@ Dukes Up!
 <br>
 
 ---
-
+<!-- INDEX -->
 - Setup
 - Objective
+- Runs and Sets
 - Taking Your Turn
   - Drawing
   - Playing Cards
@@ -20,7 +21,7 @@ Dukes Up!
   - Replacing Your DUKES
   - Discarding
 - Ending the Game
-  - THE MOVE
+  - Playing Your CASTLE
 - Scoring
 
 ---
@@ -41,7 +42,7 @@ Setup
 Objective
 ==================================================
 
-Throughout the game, players' cards are played to the tabe in runs and sets. At the end of the game, the player who has the most cards on the table wins. You can easily tell players' cards apart by color.
+Throughout the game, players' cards are played to the table in runs and sets. At the end of the game, the player who has the most cards on the table wins.
 
 The game ends when you play your opponent's CASTLE in a run/set. However, the DUKES protect the CASTLE, and they must be played first.
 
@@ -51,7 +52,7 @@ Thus, your goal is to (1) play cards to the table in runs or sets to gain points
 Runs and Sets
 ==================================================
 
-Runs and sets are a common mechanic in traditional card games, though they can vary slightly between different games. Runs and sets are defined for "Dukes Up!" as follows:
+Runs and sets are a common mechanic in traditional card games, though they can vary between games. Runs and sets are defined for "Dukes Up!" as follows:
 
 - Valid sets are groups of 3 or more cards, all with the same value.
 - Valid runs are groups of 3 or more cards, all of the same suit, with their values in sequential order.
@@ -61,7 +62,10 @@ Importantly, "Dukes Up!" uses different suits than the traditional 4 (clubs, spa
 - The THORNS suit consists of spades and diamonds.
 - The FLOWERS suit consists of clubs and hearts.
 
-This means that valid runs can contain either clubs & hearts or spades & diamonds. Additionally, notice that each player's deck has half of both suits.
+This means that players' decks contain half of both suits.
+
+Realistically, suits are only relevant for creating runs.
+THORNS and FLOWERS mean that runs can contain either clubs & hearts or spades & diamonds.
 
 An easy trick to remember the suits is to look at the top of the suit symbol. If the top is pointed, it is a THORN. If the top is rounded, it is a FLOWER.
 
@@ -107,7 +111,7 @@ For example, say a run of `three->four->five->six` is already on the table, and 
 
 When rearranging cards, there are 2 rules you must follow:
 
-1. You cannot remeove cards from play.
+1. You cannot remove cards from play.
 2. Before discarding, all cards in play must be part of valid runs or sets.
 
 Rearranging cards is where much of the strategy comes from. It allows you to change the board to be less favorable to your opponent by getting cards stuck in runs/sets.
@@ -127,10 +131,10 @@ Taking an opponent's CASTLE ends the round.
 See "Ending the Game".
 
 
+
+
 Replacing Your DUKES
 --------------------------------------------------
-
-Note: The following actions are not allowed on the first player's first turn.
 
 During your turn, your DUKES are interchangeable with cards from your hand.
 You can pick up your DUKES and put them in your hand, and you can use cards from your hand to replace your dukes.
@@ -139,23 +143,29 @@ You do not *have* to replace your dukes, however.
 You may choose to leave them empty.
 If you leave both DUKES empty, you do not need to flip up your CASTLE until the *start of your next turn*.
 
-Additionally, each turn, if your CASTLE is face-up and you have no DUKES, you may replace a single DUKE.
-You *cannot* replace both of your DUKES, nor can you replace DUKES while your CASTLE is face-down.
+Additionally, each turn, if your CASTLE is face-up and you have no DUKES, you may add a single DUKE.
+You *cannot* add back both of your DUKES, nor can you add new DUKES when your CASTLE is face-down.
 
-You cannot exchange your CASTLE in this way.
+You are not allowed to swap out your CASTLE.
 
+```
+TODO
+cant swap out DUKES on first player's first turn
+```
 
 Discarding
 --------------------------------------------------
 
 To end your turn, you must discard. Cards are discarded face-down so that the opponent cannot see them.
 
-Discard in any 1 of the following ways:
+Discard in one of the following ways:
 
 - Discard 1 card from your hand to the top of your discard pile.
 - Discard 2 cards from your hand to the top of your discard pile. This can only be done if you perform no other actions during your turn. You cannot play, swap out dukes, or take your opponent's dukes.
 - Discard 1 card from the top of your draw pile to the *bottom* of your discard pile. You cannot look at it.
 - Discard 1 of *your own* cards from the play area to the top of your discard pile. You can only do this if it leaves a valid arrangement of runs and sets behind. Remember that the runs/sets must be in a valid arrangement *before* you can discard, as well.
+
+Once you discard, your turn is over, and the next player may draw to start their turn.
 
 You cannot look back through your discard pile.
 
@@ -163,13 +173,15 @@ You cannot look back through your discard pile.
 Ending the Game
 ==================================================
 
-In order to take an opponent's CASTLE, it must be face-up and any DUKE guarding it must be taken in the same turn.
-At this point, the attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
+In order to take an opponent's CASTLE, it must be face-up, and any DUKE guarding it must be taken in the same turn.
+At this point, the game is over.
+The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
 
-Additionally, if a player empties both their draw and diacard piles, meaning all of their cards are either on the table or in their hand, they get a chance to play cards from their hand before moving on to scoring.
+Additionally, if a player empties both their draw and discard piles, meaning all of their cards are either on the table or in their hand, the game is over.
+The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
 
 
-THE MOVE
+Playing Your CASTLE
 --------------------------------------------------
 
 Finally, there is an "advanced" move (it's not that complicated) that can be used to end the game, where a player attempts to use their own CASTLE to take their opponent's.
@@ -183,7 +195,7 @@ If you made a mistake and you are unable to end the round, you can put your CAST
 If your CASTLE is face-down, you must flip it up to make this move.
 If you need to put your CASTLE back, it must remain face-up.
 
-This is useful when your CASTLE is a pivotal card in rearranging the board or creating a run/set with your opponent's CASTLE/DUKE.
+This is useful when your CASTLE is a pivotal card in rearranging the board or creating a run/set with your opponent's cards.
 
 
 Scoring
