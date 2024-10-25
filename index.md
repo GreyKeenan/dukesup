@@ -33,18 +33,26 @@ Dukes Up!
 Setup
 ==================================================
 
-1. Choose a player to go first. If you are playing multiple games, switch back and forth.
-2. Split the deck in half by color. One player gets clubs + spades, and the other gets hearts + diamonds. Jokers can be removed.
-3. Shuffle your half of the deck and draw 4 cards. Set the remaining cards aside as your draw pile. Players have their own draw and discard piles.
-4. Choose 1 of the 4 cards as your CASTLE, and place it face-down on the table. Choose 2 cards as your DUKES, and place them face-down in front of your CASTLE. The left-over card will be part of your starting hand.
+1. Choose a player to go first.
+If you are playing multiple games, switch back and forth.
+2. Split the deck in half by color.
+One player gets clubs/spades, and the other gets hearts/diamonds.
+Remove the jokers.
+3. Shuffle your half of the deck and draw 4 cards.
+Set the remaining cards aside as your draw pile.
+Players have their own draw and discard piles.
+4. Choose 1 of the 4 cards as your CASTLE, and place it face-down on the table.
+Choose 2 cards as your DUKES, and place them face-down in front of your CASTLE.
+The left-over card will be part of your starting hand.
 5. Runs and sets will be played to the rest of the table.
-6. Once both players have chosen their DUKES, they say, “Dukes Up!” in unison and flip up their DUKES. The CASTLES remain face-down, and should be secret.
+6. Once both players have chosen their DUKES, they say, “Dukes Up!” in unison and flip up their DUKES.
+The CASTLES remain face-down, and should be secret.
 
 
 Objective
 ==================================================
 
-Throughout the game, players' cards are played to the table in runs and sets.
+Throughout the game, cards are played to the table in runs and sets.
 At the end of the game, the player who has the most cards on the table wins.
 
 The game ends when you play your opponent's CASTLE.
@@ -119,8 +127,8 @@ See "Taking Your Opponent's DUKES".
 Rearranging Cards
 --------------------------------------------------
 
-At any point before discarding, you can rearrange the runs or sets in play to change the layout of the table and give yourself more options.
-This is where much of the game's strategy comes from.
+At any point before discarding, you can rearrange the runs or sets in play to change the layout of the table.
+This can give you more options and is where much of the game's strategy comes from.
 
 For a simple example, say a run of `three->four->five->six` is already on the table, and you have two sixes in your hand.
 You may separate the six on the table from its run, and combine it with the sixes from your hand to create a set of sixes.
@@ -143,7 +151,9 @@ They can be taken and played to the table as parts of runs/sets.
 If possible, you are allowed to take both DUKES in a single turn.
 
 Once both of a player's DUKES have been taken, they must flip up their CASTLE *at the start of their next turn*.
-(They will have an opportunity to replace one DUKE.)
+
+They will eventually have an opportunity to replace their DUKES.
+See "Replacing Your DUKES".
 
 A *face-up* CASTLE can be played to the table just like a DUKE,
 except that any DUKE guarding it must also be taken within the same turn.
@@ -155,11 +165,16 @@ Replacing Your DUKES
 --------------------------------------------------
 
 During your turn, your DUKES are interchangeable with cards from your hand.
-You can pick up your DUKES and put them in your hand, and you can use cards from your hand to replace your dukes.
+You can swap them freely.
 
-You do not *have* to replace your dukes;
-you may choose to leave them empty.
-If you leave both DUKES empty, you do not need to flip up your CASTLE until the *start of your next turn*.
+The first player's *first turn* is a special case.
+They can only replace their DUKES if they play them to the table in that turn.
+	<!-- On that turn, they cannot freely exchange DUKES with cards from their hand. -->
+
+Whenever you use your DUKES, you don't *have* to replace them.
+You may choose to leave them empty,
+but they cannot be replaced on later turns.
+If you leave both DUKES empty, you must flip up your CASTLE *at the start of your next turn.*
 
 When your CASTLE is face-down, you cannot replace DUKES that were taken by your opponent.
 However, each turn, if your CASTLE is face-up and you have no DUKES, you may add a single DUKE.
@@ -167,10 +182,6 @@ You *cannot* add back both of your DUKES.
 
 You are not allowed to swap out your CASTLE.
 
-```
-TODO
-cant swap out DUKES on first player's first turn
-```
 
 Discarding
 --------------------------------------------------
@@ -189,7 +200,7 @@ You cannot look at it.
 You can only do this if it leaves a valid arrangement of runs and sets behind.
 Remember that the runs/sets must be in a valid arrangement *before* you discard, as well.
 
-Once you discard, your turn is over, and the next player may draw to start their turn.
+Once you discard, your turn is over, and the other player may draw to start their turn.
 
 You cannot look back through your discard pile.
 
@@ -208,6 +219,8 @@ The attacking player gets a chance to play any additional cards from their hand 
 Playing Your CASTLE
 --------------------------------------------------
 
+This is a special move you can use to end the game.
+
 You cannot intentionally eliminate your own CASTLE to end the game.
 However, you can attempt to play your own CASTLE in order to take the opponent's.
 You must take the opponent's CASTLE in this turn.
@@ -224,25 +237,8 @@ Scoring
 ==================================================
 
 At the end of the game, the player with the most cards on the table wins.
+Any cards of your color are considered yours.
 This includes any cards in runs/sets, as well as any remaining CASTLES and DUKES.
 All cards count as 1.
 
-If you are only playing a single game, the rules end here.
-
-If you are playing multuple games, you have two options:
-
-1. You can tally up scores and add on to them each game.
-2. You can count wins per game, and not keep track of scores between games.
-
-When playing multiple games in a tournament style with many players, the latter option is recommended.
-When playing multiple games with the same people, the former is recommended, but either option works.
-
-
-
 <br>
-
----
-
-END
-
----
