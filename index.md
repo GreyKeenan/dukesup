@@ -4,13 +4,14 @@ Dukes Up!
 
 > by Samuel Grey Keenan and Samuel Olaf Keenan
 
-"Dukes Up!" is a semi-strategic, 2-player card game played with a standard deck of cards. It uses rummy-style elements which will be familiar to card players, and it has a bit more depth than many 2-player classics. You can play "Dukes Up!" as a single game, in about 15-20 minutes, or you can play multiple games in a tournament style.
+"Dukes Up!" is a 2-player card game played with a standard deck of cards.
+It uses rummy-style elements which will be familiar to card players, but it has a more depth than many other 2-player options.
+You can play "Dukes Up!" as a single game, in about 15-20 minutes, or you can play multiple games in a tournament style.
 
-<!-- time how long games actually take -->
+A video tutorial and visual aids are in the works.
 
 <br>
 
----
 <!-- INDEX -->
 - Setup
 - Objective
@@ -25,8 +26,6 @@ Dukes Up!
 - Ending the Game
   - Playing Your CASTLE
 - Scoring
-
----
 
 <br>
 
@@ -109,7 +108,7 @@ Finally, you must discard to end your turn.
 Drawing
 --------------------------------------------------
 
-You can draw up to 2 cards, ensuring that your hand does not exceed 4 cards.
+Start your turn by drawing up to 2 cards, ensuring that your hand does not exceed 4 cards.
 You may draw from your draw pile or your discard pile, but not both in the same turn.
 
 If your draw pile is empty, shuffle your discard pile into a new draw pile.
@@ -118,7 +117,8 @@ If your draw pile is empty, shuffle your discard pile into a new draw pile.
 Playing Cards
 --------------------------------------------------
 
-On your turn, you can play cards from your hand to the table. These may be new runs/sets, or they may add to existing runs/sets.
+You may play cards from your hand to the table in runs/sets.
+The cards may be new runs/sets, or they may add to existing runs/sets.
 
 Sometimes, you can play the opponent's DUKES to the table.
 See "Taking the Opponent's DUKES".
@@ -127,8 +127,8 @@ See "Taking the Opponent's DUKES".
 Rearranging Cards
 --------------------------------------------------
 
-At any point before discarding, you can rearrange the runs or sets in play to change the layout of the table.
-This can give you more options and is where much of the game's strategy comes from.
+At any point before discarding, you may rearrange the runs/sets in play to change the layout of the table.
+This is where much of the game's strategy comes from.
 
 For a simple example, say a run of `three->four->five->six` is already on the table, and you have two sixes in your hand.
 You may separate the six on the table from its run, and combine it with the sixes from your hand to create a set of sixes.
@@ -137,26 +137,24 @@ The table would now have a run of 3 and a set of sixes, which is a valid arrange
 When rearranging cards, there are 2 rules you must follow:
 
 1. You cannot remove cards from play.
-For instance, you could not pick up a card that was played on a previous turn, and return it to your hand.
-2. Before discarding, all cards in play must be part of valid runs or sets.
+For instance, you cannot pick up a card that was played on a previous turn and put it in your hand.
+2. Before discarding, all cards in play must be part of a valid run or set.
 
 
 Taking the Opponent's DUKES
 --------------------------------------------------
 
-The DUKES protect the CASTLE, and they must be played before the CASTLE can be played.
+Recall that DUKES protect the CASTLE, and they must be taken before the CASTLE can be taken.
 
-You can use the opponent's DUKES in much the same way as your own cards.
-They can be taken and played to the table as parts of runs/sets.
+You may take the opponent's DUKES by playing them runs/sets, just like cards from your hand.
 If possible, you are allowed to take both DUKES in a single turn.
 
 Once both of a player's DUKES have been taken, they must flip up their CASTLE *at the start of their next turn*.
-
-They will eventually have an opportunity to replace their DUKES.
+Keep in mind that they will have an opportunity to add new DUKES once their CASTLE is face-up.
 See "Replacing Your DUKES".
 
 A *face-up* CASTLE can be played to the table just like a DUKE,
-except that any DUKE guarding it must also be taken within the same turn.
+except that any DUKE guarding it must be taken in that same turn.
 Taking an opponent's CASTLE ends the game.
 See "Ending the Game".
 
@@ -164,41 +162,44 @@ See "Ending the Game".
 Replacing Your DUKES
 --------------------------------------------------
 
-During your turn, your DUKES are interchangeable with cards from your hand.
-You can swap them freely.
+<!-- this section is confusing. Like, the sequence of this information is unclear at a first read. -->
 
-The first player's *first turn* is a special case.
-They can only replace their DUKES if they play them to the table in that turn.
-	<!-- On that turn, they cannot freely exchange DUKES with cards from their hand. -->
+You may pick up your DUKES and exchange/replace them with cards from your hand.
+You cannot replace DUKES that were taken by the opponent.
 
-Whenever you use your DUKES, you don't *have* to replace them.
-You may choose to leave them empty,
-but they cannot be replaced on later turns.
-If you leave both DUKES empty, you must flip up your CASTLE *at the start of your next turn.*
+**The first player's first turn is a special case.**
+On this turn, you can only exchange DUKES if you play the original DUKE in a run/set.
+You cannot just pick up a DUKE and put it in your hand.
 
-When your CASTLE is face-down, you cannot replace DUKES that were taken by the opponent.
-However, each turn, if your CASTLE is face-up and you have no DUKES, you may add a single DUKE.
-You *cannot* add back both of your DUKES.
+When you pick up a DUKE, you do not *have* to replace it.
+If you leave it empty by the end of your turn, it is treated just as if the opponent took it.
+The DUKE cannot be replaced on a later turn,
+and if you leave both DUKES empty, you must flip up your CASTLE *at the start of your next turn.*
 
-You are not allowed to swap out your CASTLE.
+Finally, each turn, if your CASTLE is face-up and you have no DUKES, you may add back a single DUKE.
+You cannot add back both of your DUKES,
+and you cannot add new DUKES when your CASTLE is face-up.
+
+You are not allowed to exchange your CASTLE.
 
 
 Discarding
 --------------------------------------------------
 
-To end your turn, you must discard. Cards are discarded face-down to your own discard pile.
+To end your turn, you must discard.
+Cards are discarded face-down to your own discard pile.
 
 There are four ways to discard:
 
 1. Discard 1 card from your hand to the top of your discard pile.
 2. Discard 2 cards from your hand to the top of your discard pile.
 This can only be done if you perform no other actions during your turn.
-You cannot play, swap out dukes, or take the opponent's dukes.
+You cannot play, exchange DUKES, or take the opponent's DUKES.
 3. Discard 1 card from the top of your draw pile to the *bottom* of your discard pile.
 You cannot look at it.
 4. Discard 1 of *your own* cards from the play area to the top of your discard pile.
 You can only do this if it leaves a valid arrangement of runs and sets behind.
-Remember that the runs/sets must be in a valid arrangement *before* you discard, as well.
+Remember that runs/sets must be in a valid arrangement *before* you discard, as well.
 
 Once you discard, your turn is over, and the other player may draw to start their turn.
 
@@ -219,26 +220,19 @@ The attacking player gets a chance to play any additional cards from their hand 
 Playing Your CASTLE
 --------------------------------------------------
 
-This is a special move you can use to end the game.
+You may attempt to play your own CASTLE in order to take the opponent's and end the game.
+Because you are playing your own CASTLE, you *must* take the opponent's in this turn.
+You cannot end the game by only taking your own CASTLE.
 
-You cannot intentionally eliminate your own CASTLE to end the game.
-However, you can attempt to play your own CASTLE in order to take the opponent's.
-You must take the opponent's CASTLE in this turn.
-
-If your CASTLE is face-up, this can be done easily.
-Simply grab the CASTLE and play it to the board just as any other card.
-If you made a mistake and you are unable to take the opponent's CASTLE, you must put your CASTLE back and return the table to a valid state.
-
-If your CASTLE is face-down, you must flip it up to make this move.
-If you are then unable to take the opponent's CASTLE, your CASTLE remains face-up.
+To use your CASTLE, play it in runs/sets just like any other card.
+If you are unable to take the opponent's CASTLE, you must return your CASTLE to its position, face-up.
 
 
 Scoring
 ==================================================
 
 At the end of the game, the player with the most cards on the table wins.
+This includes runs/sets, remaining DUKES, and remaining CASTLES.
 Any cards of your color are considered yours.
-This includes any cards in runs/sets, as well as any remaining CASTLES and DUKES.
-All cards count as 1.
 
 <br>
