@@ -65,6 +65,8 @@ and protect your own FIEF.
 Runs and Sets
 ==================================================
 
+<!--
+
 Runs and sets are a key mechanic in rummy-style games, though the details can vary.
 
 - A set is a group of 3 or more cards, each with the same value.
@@ -82,6 +84,28 @@ So, runs can contain either spades/diamonds or clubs/hearts.
 An easy trick to remember the suit groups is to look at the top of the suit symbol.
 If the top is pointed, it is a THORN.
 If the top is rounded, it is a FLOWER.
+
+-->
+
+Runs and sets are a key rummy-style mechanic, though the details can vary between games.
+This is how they work in "Dukes Up!":
+
+- A set is a group ot 3 or more cards with matching values.
+- A run is a group of 3 or more cards in sequential order and of the proper suit.
+(Aces can be high or low, but not both.)
+Runs can contain either spades and diamonds, or clubs and hearts.
+
+One way to remember which suits go together in runs is to think of them as "thorns" and "flowers".
+If the top of the suit symbol is pointed, it is a "thorn".
+If the top of the suit symbol is rounded, it is a "flower".
+
+Valid and invalid examples:
+
+- `king of clubs, king of diamonds, king of hearts, king of spades` is a set of kings.
+- `ten of spades, ten of clubs` is **not** a valid set, since it must be at least 3 cards.
+- `nine of clubs, ten of clubs, jack of hearts, queen of clubs` is a run of clubs/hearts.
+- `ace of diamonds, two of diamonds, three of diamonds` is a run of spades/diamonds.
+- `two of spades, three of spades, four of clubs` is **not** a valid run, since spades/clubs cannot be combined.
 
 
 Taking Your Turn
@@ -124,7 +148,7 @@ Rearranging Cards
 At any point before discarding, you may rearrange the runs/sets in play to change the layout of the table.
 This is where much of the game's strategy comes from.
 
-For a simple example, say a run of `three->four->five->six` is already on the table, and you have two sixes in your hand.
+For a simple example, say a run of `three, four, five, six` is already on the table, and you have two sixes in your hand.
 You may separate the six on the table from its run, and combine it with the sixes from your hand to create a set of sixes.
 The table would now have a run of 3 and a set of sixes, which is a valid arrangement.
 
