@@ -65,29 +65,23 @@ and protect your own FIEF.
 Runs and Sets
 ==================================================
 
-<!--
-	separate explanations of runs/sets
-	less focus un *redefining* suits, more on just how it works
+Runs and sets are a key mechanic in rummy-style games, though the details can vary.
 
-	KA2
--->
+- A set is a group of 3 or more cards, each with the same value.
+- A run is a group of 3 or more cards, with values in sequential order.
+Aces can be high or low, but not both.
 
-Runs and sets are a common mechanic in traditional card games, though they can vary between games. Runs and sets are defined for "Dukes Up!" as follows:
+Typically, all cards in a run must be the same suit, but in "Dukes Up!", all cards in a run must be part of the same *suit group*.
+The traditional 4 suits are grouped into 2 suit groups:
 
-- Valid sets are groups of 3 or more cards, all with the same value.
-- Valid runs are groups of 3 or more cards, all of the same suit, with their values in sequential order.
+- THORNS include spades and diamonds.
+- FLOWERS include clubs and hearts.
 
-Importantly, "Dukes Up!" uses different suits than the traditional 4 (clubs, spades, hearts, diamonds). "Dukes Up!" groups suits together to create THORNS and FLOWERS.
+So, runs can contain either spades/diamonds or clubs/hearts.
 
-- The THORNS suit consists of spades and diamonds.
-- The FLOWERS suit consists of clubs and hearts.
-
-This means that players' decks contain half of both suits.
-
-Realistically, suits are only relevant for creating runs.
-THORNS and FLOWERS mean that runs can contain either clubs & hearts or spades & diamonds.
-
-An easy trick to remember the suits is to look at the top of the suit symbol. If the top is pointed, it is a THORN. If the top is rounded, it is a FLOWER.
+An easy trick to remember the suit groups is to look at the top of the suit symbol.
+If the top is pointed, it is a THORN.
+If the top is rounded, it is a FLOWER.
 
 
 Taking Your Turn
