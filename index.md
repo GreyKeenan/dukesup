@@ -127,7 +127,8 @@ Drawing
 --------------------------------------------------
 
 Start your turn by drawing up to 2 cards, ensuring that your hand does not exceed 4 cards.
-You may draw from your draw pile or your discard pile, but not both in the same turn.
+
+You can draw from either your draw pile or your discard pile, but not both in the same turn.
 
 If your draw pile is empty, shuffle your discard pile into a new draw pile.
 
@@ -135,21 +136,23 @@ If your draw pile is empty, shuffle your discard pile into a new draw pile.
 Playing Cards
 --------------------------------------------------
 
-You may play cards from your hand to the table in runs/sets.
-The cards may be new runs/sets, or they may add to existing runs/sets.
+You can play cards from your hand to the table in runs/sets.
+These can be new runs/sets, or they may add to existing ones.
 
-Sometimes, you can play the opponent's DUKES to the table.
-See "Taking the Opponent's DUKES".
+Cards are played to a shared table, where both player's runs/sets should be combined.
+
+Sometimes, you can also play the opponent's DUKES to the table.
+(See "Taking the Opponent's DUKES".)
 
 
 Rearranging Cards
 --------------------------------------------------
 
-At any point before discarding, you may rearrange the runs/sets in play to change the layout of the table.
-This is where much of the game's strategy comes from.
+You can rearrange the runs/sets in play to change the layout of the table.
+This is where much of the game's strategy comes from, as it allows you to get the opponent's cards stuck.
 
 For a simple example, say a run of `three, four, five, six` is already on the table, and you have two sixes in your hand.
-You may separate the six on the table from its run, and combine it with the sixes from your hand to create a set of sixes.
+You may separate the six on the table from its run and combine it with the sixes from your hand to create a set of sixes.
 The table would now have a run of 3 and a set of sixes, which is a valid arrangement.
 
 When rearranging cards, there are 2 rules you must follow:
@@ -162,40 +165,37 @@ For instance, you cannot pick up a card that was played on a previous turn and p
 Taking the Opponent's DUKES
 --------------------------------------------------
 
-Recall that DUKES protect the FIEF, and they must be taken before the FIEF can be taken.
-
-You may take the opponent's DUKES by playing them runs/sets, just like cards from your hand.
+You can take the opponent's DUKES by playing them in runs/sets, just like cards from your hand.
 If possible, you are allowed to take both DUKES in a single turn.
 
-Once both of a player's DUKES have been taken, they must flip up their FIEF *at the start of their next turn*.
-Keep in mind that they will have an opportunity to add new DUKES once their FIEF is face-up.
-See "Replacing Your DUKES".
+Recall that DUKES protect the FIEF.
+Once both of a player's DUKES are gone, they must flip up their FIEF *at the start of their next turn*.
+They will have an opportunity to add new DUKES once their FIEF is face-up.
+(See "Replacing Your DUKES".)
 
 A *face-up* FIEF can be played to the table just like a DUKE,
-except that any DUKE guarding it must be taken in that same turn.
+except that any DUKE guarding it must be taken in the same turn.
 Taking an opponent's FIEF ends the game.
-See "Ending the Game".
+(See "Ending the Game".)
 
 
 Replacing Your DUKES
 --------------------------------------------------
 
-<!-- this section is confusing. Like, the sequence of this information is unclear at a first read. -->
-
-You may pick up your DUKES and exchange/replace them with cards from your hand.
-You cannot replace DUKES that were taken by the opponent.
+You can pick up your DUKES and exchange/replace them with cards from your hand.
+However, you cannot replace DUKES that were taken by the opponent.
 
 **The first player's first turn is a special case.**
 On this turn, you can only exchange DUKES if you play the original DUKE in a run/set.
 You cannot just pick up a DUKE and put it in your hand.
 
 When you pick up a DUKE, you do not *have* to replace it.
-If you leave it empty by the end of your turn, it is treated just as if the opponent took it.
+If you leave the DUKE empty, it is just like the opponent took it.
 The DUKE cannot be replaced on a later turn,
 and if you leave both DUKES empty, you must flip up your FIEF *at the start of your next turn.*
 
-Finally, each turn, if your FIEF is face-up and you have no DUKES, you may add back a single DUKE.
-You cannot add back both of your DUKES,
+Finally, each turn, if your FIEF is face-up and you have no DUKES, you can add a single DUKE back.
+You cannot add both of your DUKES back,
 and you cannot add new DUKES when your FIEF is face-up.
 
 You are not allowed to exchange your FIEF.
@@ -228,7 +228,7 @@ Ending the Game
 ==================================================
 
 In order to take an opponent's FIEF, it must be face-up, and any DUKE guarding it must be taken in the same turn.
-At this point, the game is over.
+Once taken, the game is over.
 The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
 
 Additionally, if a player empties both their draw and discard piles, meaning all of their cards are either on the table or in their hand, the game is over.
@@ -238,9 +238,9 @@ The attacking player gets a chance to play any additional cards from their hand 
 Playing Your FIEF
 --------------------------------------------------
 
-You may attempt to play your own FIEF in order to take the opponent's and end the game.
+You can attempt to play your own FIEF in order to take the opponent's and end the game.
 Because you are playing your own FIEF, you *must* take the opponent's in this turn.
-You cannot end the game by only taking your own FIEF.
+You cannot end the game by eliminating your own FIEF.
 
 To use your FIEF, play it in runs/sets just like any other card.
 If you are unable to take the opponent's FIEF, you must return your FIEF to its position, face-up.
