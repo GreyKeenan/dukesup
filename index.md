@@ -24,7 +24,7 @@ A video tutorial and visual aids are in the works.
   - Replacing Your DUKES
   - Discarding
 - Ending the Game
-  - Playing Your CASTLE
+  - Playing Your FIEF
 - Scoring
 
 <br>
@@ -40,12 +40,12 @@ Remove the jokers.
 3. Shuffle your half of the deck and draw 4 cards.
 Set the remaining cards aside as your draw pile.
 Players have their own draw and discard piles.
-4. Choose 1 of the 4 cards as your CASTLE, and place it face-down on the table.
-Choose 2 cards as your DUKES, and place them face-down in front of your CASTLE.
+4. Choose 1 of the 4 cards as your FIEF, and place it face-down on the table.
+Choose 2 cards as your DUKES, and place them face-down in front of your FIEF.
 The left-over card will be part of your starting hand.
 5. Runs and sets will be played to the rest of the table.
 6. Once both players have chosen their DUKES, they say, “Dukes Up!” in unison and flip up their DUKES.
-The CASTLES remain face-down, and should be secret.
+The FIEFS remain face-down, and should be secret.
 
 
 Objective
@@ -54,12 +54,12 @@ Objective
 Throughout the game, cards are played to the table in runs and sets.
 At the end of the game, the player who has the most cards on the table wins.
 
-The game ends when you play the opponent's CASTLE.
-However, the DUKES protect the CASTLE, and they must be played first.
+The game ends when you play the opponent's FIEF.
+However, the DUKES protect the FIEF, and they must be played first.
 
 Your goals are to play the most cards,
-take the opponent's CASTLE,
-and protect your own CASTLE.
+take the opponent's FIEF,
+and protect your own FIEF.
 
 
 Runs and Sets
@@ -144,18 +144,18 @@ For instance, you cannot pick up a card that was played on a previous turn and p
 Taking the Opponent's DUKES
 --------------------------------------------------
 
-Recall that DUKES protect the CASTLE, and they must be taken before the CASTLE can be taken.
+Recall that DUKES protect the FIEF, and they must be taken before the FIEF can be taken.
 
 You may take the opponent's DUKES by playing them runs/sets, just like cards from your hand.
 If possible, you are allowed to take both DUKES in a single turn.
 
-Once both of a player's DUKES have been taken, they must flip up their CASTLE *at the start of their next turn*.
-Keep in mind that they will have an opportunity to add new DUKES once their CASTLE is face-up.
+Once both of a player's DUKES have been taken, they must flip up their FIEF *at the start of their next turn*.
+Keep in mind that they will have an opportunity to add new DUKES once their FIEF is face-up.
 See "Replacing Your DUKES".
 
-A *face-up* CASTLE can be played to the table just like a DUKE,
+A *face-up* FIEF can be played to the table just like a DUKE,
 except that any DUKE guarding it must be taken in that same turn.
-Taking an opponent's CASTLE ends the game.
+Taking an opponent's FIEF ends the game.
 See "Ending the Game".
 
 
@@ -174,13 +174,13 @@ You cannot just pick up a DUKE and put it in your hand.
 When you pick up a DUKE, you do not *have* to replace it.
 If you leave it empty by the end of your turn, it is treated just as if the opponent took it.
 The DUKE cannot be replaced on a later turn,
-and if you leave both DUKES empty, you must flip up your CASTLE *at the start of your next turn.*
+and if you leave both DUKES empty, you must flip up your FIEF *at the start of your next turn.*
 
-Finally, each turn, if your CASTLE is face-up and you have no DUKES, you may add back a single DUKE.
+Finally, each turn, if your FIEF is face-up and you have no DUKES, you may add back a single DUKE.
 You cannot add back both of your DUKES,
-and you cannot add new DUKES when your CASTLE is face-up.
+and you cannot add new DUKES when your FIEF is face-up.
 
-You are not allowed to exchange your CASTLE.
+You are not allowed to exchange your FIEF.
 
 
 Discarding
@@ -209,7 +209,7 @@ You cannot look back through your discard pile.
 Ending the Game
 ==================================================
 
-In order to take an opponent's CASTLE, it must be face-up, and any DUKE guarding it must be taken in the same turn.
+In order to take an opponent's FIEF, it must be face-up, and any DUKE guarding it must be taken in the same turn.
 At this point, the game is over.
 The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
 
@@ -217,22 +217,22 @@ Additionally, if a player empties both their draw and discard piles, meaning all
 The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
 
 
-Playing Your CASTLE
+Playing Your FIEF
 --------------------------------------------------
 
-You may attempt to play your own CASTLE in order to take the opponent's and end the game.
-Because you are playing your own CASTLE, you *must* take the opponent's in this turn.
-You cannot end the game by only taking your own CASTLE.
+You may attempt to play your own FIEF in order to take the opponent's and end the game.
+Because you are playing your own FIEF, you *must* take the opponent's in this turn.
+You cannot end the game by only taking your own FIEF.
 
-To use your CASTLE, play it in runs/sets just like any other card.
-If you are unable to take the opponent's CASTLE, you must return your CASTLE to its position, face-up.
+To use your FIEF, play it in runs/sets just like any other card.
+If you are unable to take the opponent's FIEF, you must return your FIEF to its position, face-up.
 
 
 Scoring
 ==================================================
 
 At the end of the game, the player with the most cards on the table wins.
-This includes runs/sets, remaining DUKES, and remaining CASTLES.
+This includes runs/sets, remaining DUKES, and remaining FIEFS.
 Any cards of your color are considered yours.
 
 <br>
