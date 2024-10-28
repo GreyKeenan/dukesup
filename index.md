@@ -5,8 +5,10 @@ Dukes Up!
 > by Samuel Grey Keenan and Samuel Olaf Keenan
 
 "Dukes Up!" is a 2-player card game played with a standard deck of cards.
-It uses rummy-style elements which will be familiar to card players, but it has a more depth than many other 2-player options.
-You can play "Dukes Up!" as a single game, in about 15-20 minutes, or you can play multiple games in a tournament style.
+It has a bit more depth than many 2-player options,
+and it utilizes traditional rummy-style elements which will be familiar to card players.
+You can play "Dukes Up!" as a single game, in about 15-20 minutes,
+or you can play multiple games in a tournament style.
 
 A video tutorial and visual aids are in the works.
 
@@ -45,7 +47,7 @@ Choose 2 cards as your DUKES, and place them face-down in front of your FIEF.
 The left-over card will be part of your starting hand.
 5. Runs and sets will be played to the rest of the table.
 6. Once both players have chosen their DUKES, they say, “Dukes Up!” in unison and flip up their DUKES.
-The FIEFS remain face-down, and should be secret.
+The FIEFS remain face-down and secret.
 
 
 Objective
@@ -54,8 +56,8 @@ Objective
 Throughout the game, cards are played to the table in runs and sets.
 At the end of the game, the player who has the most cards on the table wins.
 
-The game ends when you play the opponent's FIEF.
-However, the DUKES protect the FIEF, and they must be played first.
+The game ends when you take the opponent's FIEF.
+However, the DUKES protect the FIEF, and they must be taken first.
 
 Your goals are to play the most cards,
 take the opponent's FIEF,
@@ -137,9 +139,9 @@ Playing Cards
 --------------------------------------------------
 
 You can play cards from your hand to the table in runs/sets.
-These can be new runs/sets, or they may add to existing ones.
+These may be new runs/sets, or they may add to existing ones.
 
-Cards are played to a shared table, where both player's runs/sets should be combined.
+Cards are played to a shared table, where both player's runs/sets are combined.
 
 Sometimes, you can also play the opponent's DUKES to the table.
 (See "Taking the Opponent's DUKES".)
@@ -243,7 +245,7 @@ Because you are playing your own FIEF, you *must* take the opponent's in this tu
 You cannot end the game by eliminating your own FIEF.
 
 To use your FIEF, play it in runs/sets just like any other card.
-If you are unable to take the opponent's FIEF, you must return your FIEF to its position, face-up.
+If you are unable to take the opponent's FIEF, you must return your FIEF to its position, *face-up*.
 
 
 Scoring
