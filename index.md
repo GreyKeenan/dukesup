@@ -198,7 +198,7 @@ and if you leave both DUKES empty, you must flip up your FIEF *at the start of y
 
 Finally, each turn, if your FIEF is face-up and you have no DUKES, you can add a single DUKE back.
 You cannot add both of your DUKES back,
-and you cannot add new DUKES when your FIEF is face-up.
+and you cannot add new DUKES when your FIEF is face-down.
 
 You are not allowed to exchange your FIEF.
 
