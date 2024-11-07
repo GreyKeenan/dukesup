@@ -45,9 +45,14 @@ Players have their own draw and discard piles.
 4. Choose 1 of the 4 cards as your FIEF, and place it face-down on the table.
 Choose 2 cards as your DUKES, and place them face-down in front of your FIEF.
 The left-over card will be part of your starting hand.
+
+![example of the setup](setupDown.jpg)
+
 5. Runs and sets will be played to the rest of the table.
 6. Once both players have chosen their DUKES, they say, “Dukes Up!” in unison and flip up their DUKES.
-The FIEFS remain face-down and secret.
+The FIEFS remain face-down, and should be secret.
+
+![face-up dukes](setupUp.jpg)
 
 
 Objective
@@ -67,28 +72,6 @@ and protect your own FIEF.
 Runs and Sets
 ==================================================
 
-<!--
-
-Runs and sets are a key mechanic in rummy-style games, though the details can vary.
-
-- A set is a group of 3 or more cards, each with the same value.
-- A run is a group of 3 or more cards, with values in sequential order.
-Aces can be high or low, but not both.
-
-Typically, all cards in a run must be the same suit, but in "Dukes Up!", all cards in a run must be part of the same *suit group*.
-The traditional 4 suits are grouped into 2 suit groups:
-
-- THORNS include spades and diamonds.
-- FLOWERS include clubs and hearts.
-
-So, runs can contain either spades/diamonds or clubs/hearts.
-
-An easy trick to remember the suit groups is to look at the top of the suit symbol.
-If the top is pointed, it is a THORN.
-If the top is rounded, it is a FLOWER.
-
--->
-
 Runs and sets are a key rummy-style mechanic, though the details can vary between games.
 This is how they work in "Dukes Up!":
 
@@ -100,6 +83,8 @@ Runs can contain either spades and diamonds, or clubs and hearts.
 One way to remember which suits go together in runs is to think of them as "thorns" and "flowers".
 If the top of the suit symbol is pointed, it is a "thorn".
 If the top of the suit symbol is rounded, it is a "flower".
+
+![runs and sets](runsSets.jpg)
 
 Valid and invalid examples:
 
@@ -138,6 +123,11 @@ If your draw pile is empty, shuffle your discard pile into a new draw pile.
 Playing Cards
 --------------------------------------------------
 
+<!--
+	image in this section?
+	It would be redundant :/
+-->
+
 You can play cards from your hand to the table in runs/sets.
 These may be new runs/sets, or they may add to existing ones.
 
@@ -157,11 +147,16 @@ For a simple example, say a run of `three, four, five, six` is already on the ta
 You may separate the six on the table from its run and combine it with the sixes from your hand to create a set of sixes.
 The table would now have a run of 3 and a set of sixes, which is a valid arrangement.
 
+![pre-rearranging](arrangePre.jpg)
+
+![post-rearranging](arrangePost.jpg)
+
 When rearranging cards, there are 2 rules you must follow:
 
 1. You cannot remove cards from play.
 For instance, you cannot pick up a card that was played on a previous turn and put it in your hand.
 2. Before discarding, all cards in play must be part of a valid run or set.
+	<!-- example of not this? -->
 
 
 Taking the Opponent's DUKES
@@ -179,6 +174,10 @@ A *face-up* FIEF can be played to the table just like a DUKE,
 except that any DUKE guarding it must be taken in the same turn.
 Taking an opponent's FIEF ends the game.
 (See "Ending the Game".)
+
+<!--
+IF have picture, pre- and post- duke taking
+-->
 
 
 Replacing Your DUKES
@@ -232,6 +231,7 @@ Ending the Game
 In order to take an opponent's FIEF, it must be face-up, and any DUKE guarding it must be taken in the same turn.
 Once taken, the game is over.
 The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
+<!-- fix -->
 
 Additionally, if a player empties both their draw and discard piles, meaning all of their cards are either on the table or in their hand, the game is over.
 The attacking player gets a chance to play any additional cards from their hand before moving on to scoring.
@@ -256,3 +256,11 @@ This includes runs/sets, remaining DUKES, and remaining FIEFS.
 Any cards of your color are considered yours.
 
 <br>
+
+<!-- potential images
+
+	- flipping up fief
+	- invalid state
+	- swapping out dukes
+
+-->
