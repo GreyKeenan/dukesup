@@ -12,6 +12,8 @@ or you can play multiple games in a tournament style.
 
 A video tutorial and visual aids are in the works.
 
+> (temporary images are in place)
+
 <br>
 
 <!-- INDEX -->
