@@ -48,13 +48,20 @@ Players have their own draw and discard piles.
 Choose 2 cards as your DUKES, and place them face-down in front of your FIEF.
 The left-over card will be part of your starting hand.
 
->>>>>>>> ![example of the setup](setupDown.jpg)
+<!--
+![example of the setup](setupDown.jpg)
+-->
+<div style="text-align: center">
+	<img src="setupDown.jpg" width="50%"/>
+</div>
 
 5. Runs and sets will be played to the rest of the table.
 6. Once both players have chosen their DUKES, they say, “Dukes Up!” in unison and flip up their DUKES.
 The FIEFS remain face-down, and should be secret.
 
->>>>>>>> ![face-up dukes](setupUp.jpg)
+<div style="text-align: center">
+	<img src="setupUp.jpg" width="50%"/>
+</div>
 
 
 Objective
@@ -86,7 +93,9 @@ One way to remember which suits go together in runs is to think of them as "thor
 If the top of the suit symbol is pointed, it is a "thorn".
 If the top of the suit symbol is rounded, it is a "flower".
 
->>>>>>>> ![runs and sets](runsSets.jpg)
+<div style="text-align: center">
+	<img src="runsSets.jpg" width="50%"/>
+</div>
 
 Valid and invalid examples:
 
@@ -149,9 +158,11 @@ For a simple example, say a run of `three, four, five, six` is already on the ta
 You may separate the six on the table from its run and combine it with the sixes from your hand to create a set of sixes.
 The table would now have a run of 3 and a set of sixes, which is a valid arrangement.
 
->>>>>>>> ![pre-rearranging](arrangePre.jpg)
+<div style="text-align: center">
+	<img src="arrangePre.jpg" width="45%"/>
+	<img src="arrangePost.jpg" width="45%"/>
+</div>
 
->>>>>>>> ![post-rearranging](arrangePost.jpg)
 
 When rearranging cards, there are 2 rules you must follow:
 
