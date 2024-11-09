@@ -12,7 +12,7 @@ or you can play multiple games in a tournament style.
 
 A video tutorial and visual aids are in the works.
 
-> (temporary images are in place)
+> (the images right now are temporary placeholders)
 
 <br>
 
@@ -53,7 +53,7 @@ The left-over card will be part of your starting hand.
 -->
 <div style="text-align: center">
 <a href="setupDown.jpg" target="_blank">
-<img src="setupDown.jpg" style="height:35vh" />
+<img src="setupDown.jpg" width="50%" />
 </a>
 </div>
 
@@ -63,7 +63,7 @@ The FIEFS remain face-down, and should be secret.
 
 <div style="text-align: center">
 <a href="setupUp.jpg" target="_blank">
-<img src="setupUp.jpg" style="height:35vh" />
+<img src="setupUp.jpg" width="50%" />
 </a>
 </div>
 
@@ -99,7 +99,7 @@ If the top of the suit symbol is rounded, it is a "flower".
 
 <div style="text-align: center">
 <a href="runsSets.jpg" target="_blank">
-<img src="runsSets.jpg" style="height:35vh" />
+<img src="runsSets.jpg" width="50%" />
 </a>
 </div>
 
