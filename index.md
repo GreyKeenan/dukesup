@@ -52,7 +52,7 @@ The left-over card will be part of your starting hand.
 ![example of the setup](setupDown.jpg)
 -->
 <div style="text-align: center">
-	<img src="setupDown.jpg" style="height:35vh; object-fit:cover;" />
+<img src="setupDown.jpg" style="height:35vh" />
 </div>
 
 5. Runs and sets will be played to the rest of the table.
@@ -60,7 +60,7 @@ The left-over card will be part of your starting hand.
 The FIEFS remain face-down, and should be secret.
 
 <div style="text-align: center">
-	<img src="setupUp.jpg" style="height:35vh; object-fit:cover;" />
+<img src="setupUp.jpg" style="height:35vh" />
 </div>
 
 
@@ -94,7 +94,7 @@ If the top of the suit symbol is pointed, it is a "thorn".
 If the top of the suit symbol is rounded, it is a "flower".
 
 <div style="text-align: center">
-	<img src="runsSets.jpg" style="height:35vh; object-fit:cover;" />
+<img src="runsSets.jpg" style="height:35vh" />
 </div>
 
 Valid and invalid examples:
@@ -159,8 +159,8 @@ You may separate the six on the table from its run and combine it with the sixes
 The table would now have a run of 3 and a set of sixes, which is a valid arrangement.
 
 <div style="text-align: center">
-	<img src="arrangePre.jpg" width="49%"/>
-	<img src="arrangePost.jpg" width="49%"/>
+<img src="arrangePre.jpg" width="49%"/>
+<img src="arrangePost.jpg" width="49%"/>
 </div>
 
 
