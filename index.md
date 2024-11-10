@@ -4,9 +4,9 @@ Dukes Up!
 
 > by Samuel Grey Keenan and Samuel Olaf Keenan
 
-"Dukes Up!" is a 2-player card game played with a standard deck of cards.
-It has a bit more depth than many 2-player, standard-deck classics,
-and it uses traditional rummy-style elements which will be familiar to card players.
+"Dukes Up!" is a 2-player card game.
+All you need is a standard deck of cards and a bit of table space.
+It's a great option for those familiar with rummy-style games who want to mix it up.
 A single game of "Dukes Up!" takes around 15-20 minutes.
 
 We are currently working on a video tutorial and visual aids.
@@ -48,9 +48,11 @@ Players have their own draw and discard piles.
 Choose 2 cards as your DUKES, and place them face-down in front of your FIEF.
 The left-over card will be part of your starting hand.
 1. Leave space on the table for the "play area".
-1. Once both players have finished choosing their cards,
+1. Once both players have chosen their cards,
 they say, “Dukes Up!” and flip up their DUKES in unison.
 The FIEFS remain face-down.
+1. From here, the chosen first player can start their turn.
+Taking your turn is explained below.
 
 ---
 
@@ -74,8 +76,8 @@ Objective
 
 Your goal is to take the opponent's FIEF.
 
-Throughout the game, you play your cards to the table in runs and sets.
-You can take the opponent's cards by playing them to the table in the same way.
+Throughout the game, you play cards to the table in runs and sets.
+You can take the opponent's cards by playing them in the same way.
 Once someone's FIEF is taken, the game ends,
 and the player who played the most cards wins.
 
@@ -85,7 +87,7 @@ Runs and Sets
 
 Runs and sets are ways to group cards together.
 In "Dukes Up!" and many other rummy-style games,
-creating runs and sets allows you to play cards to the table.
+creating runs/sets allows you to play cards to the table.
 This will be described in more depth later.
 <!--
 If you're completely unfamiliar with runs and sets,
@@ -114,7 +116,7 @@ width="50%"
 
 ---
 
-Here's a tip for remembering which suits go together!
+Here's a tip for remembering which suits go together.
 Think of them as "thorns" and "flowers".
 If the top of the suit is pointed, it's a "thorn".
 If it's rounded, it's a "flower".
@@ -131,10 +133,10 @@ Valid and invalid examples:
 Take Your Turn
 ==================================================
 
-We will go over each of the things that you can do on your turn.
+There are a few things to do on your turn.
 
 1. Start your turn by drawing.
-1. Perform any of the following actions:
+1. Then, perform any of the following actions:
 	* Play cards
 	* Rearrange runs/sets
 	* Take the opponent's DUKES
@@ -145,19 +147,25 @@ We will go over each of the things that you can do on your turn.
 Draw
 --------------------------------------------------
 
-Start your turn by drawing up to 2 cards, ensuring that your hand does not exceed 4 cards.
+Start your turn by drawing *up to* 2 cards,
+as long as you won't have more than 4 cards.
 
-You can draw from your draw pile or your discard pile, but not both in the same turn.
+You can draw from your draw pile or your discard pile,
+but not both in the same turn.
 
-If your draw pile is empty, shuffle your discard pile into a new draw pile.
+If your draw pile is empty,
+shuffle your discard pile into a new draw pile.
 
 
 Play Cards
 --------------------------------------------------
 
-If you can make a run or set from the cards in your hand,
-you may play it to the table.
-You can also add to existing runs/sets.
+It's important to play cards to the table
+in order to gain points and take the opponent's cards.
+
+When you can form runs/sets from the cards in your hand,
+you can play them to the table.
+You can play cards which add to existing runs/sets as well.
 
 Once runs/sets have been played,
 they are not "owned" by either player.
@@ -173,7 +181,8 @@ Rearrange Cards
 --------------------------------------------------
 
 You can rearrange the runs/sets in play to change the layout of the table.
-This is where much of the game's strategy comes from, as it allows you to get the opponent's cards stuck.
+This is where much of the game's strategy comes from,
+as it allows you to get the opponent's cards stuck.
 
 For a simple example, say a run of `three, four, five, six` is already on the table, and you have two sixes in your hand.
 You may separate the six on the table from its run and combine it with the sixes from your hand to create a set of sixes.
@@ -276,19 +285,18 @@ You have four options when discarding:
 2. Discard 2 cards from your hand to the top of your discard pile.
 This can only be done if you perform no other actions during your turn.
 You cannot play, replace DUKES, or take the opponent's DUKES.
-	> Generally, if you don't do anything on your turn anyways,
-	discarding 2 cards is preferrable to 1.
-	It allows you to see cards more quickly than the opponent.
+	> Generally, if you aren't able to play anyways,
+	this is a good choice.
 3. Discard 1 card from the top of your draw pile to the *bottom* of your discard pile.
 You cannot look at it.
 	> We like to call this "burning".
-	It can allow you to hold on to important cards,
+	It allows you to hold on to important cards,
 	but it comes at the cost of not knowing what you discarded.
 4. Discard 1 of *your own* cards from the play area to the top of your discard pile.
 You can only do this if it leaves a valid arrangement of runs and sets behind.
 Remember that runs/sets must be in a valid arrangement *before* you discard, as well.
 	> This is a valuable tool for defensive play,
-	but keep in mind that you are losing a point each time you use it.
+	but you are losing a point each time you use it.
 
 Once you discard, your turn is over.
 The other player may draw to start their turn.
@@ -301,9 +309,11 @@ Ending the Game
 
 Take the opponent's FIEF to end the game.
 
-You can play the opponent's face-up FIEF in runs/sets.
-However, you *must* take any DUKES guarding it in that turn.
-Taking their FIEF ends the game.
+Once the opponent's FIEF is face-up,
+you can play it in runs/sets.
+However, you *must* take any DUKES guarding it in the same turn.
+Taking the FIEF ends the game;
+move on to scoring.
 
 Alternatively, if your draw and discard piles are both empty,
 meaining all of your cards are on the table or in your hand,
