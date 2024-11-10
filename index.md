@@ -17,7 +17,7 @@ We are currently working on a video tutorial and visual aids.
 
 <!-- INDEX -->
 - Setup
-- Objective
+- Overview
 - Runs and Sets
 - Take Your Turn
   - Draw
@@ -51,8 +51,8 @@ The left-over card will be part of your starting hand.
 1. Once both players have chosen their cards,
 they say, “Dukes Up!” and flip up their DUKES in unison.
 The FIEFS remain face-down.
-1. From here, the chosen first player can start their turn.
-Taking your turn is explained below.
+1. With both players' DUKES revealed,
+the first player can start their turn.
 
 ---
 
@@ -71,14 +71,17 @@ width="50%"
 ---
 
 
-Objective
+Overview
 ==================================================
 
-Your goal is to take the opponent's FIEF.
-
 Throughout the game, you play cards to the table in runs and sets.
-You can take the opponent's cards by playing them in the same way.
-Once someone's FIEF is taken, the game ends,
+Your goal is to take the opponent's FIEF by fitting it into runs/sets on the table.
+
+FIEFS start the game face-down and protected.
+Before you can take the opponent's FIEF,
+you have to get through the DUKES that are guarding it.
+
+Once a FIEF is taken, the game ends,
 and the player who played the most cards wins.
 
 
@@ -88,7 +91,6 @@ Runs and Sets
 Runs and sets are ways to group cards together.
 In "Dukes Up!" and many other rummy-style games,
 creating runs/sets allows you to play cards to the table.
-This will be described in more depth later.
 <!--
 If you're completely unfamiliar with runs and sets,
 this game might be a bit confusing,
@@ -147,10 +149,11 @@ There are a few things to do on your turn.
 Draw
 --------------------------------------------------
 
-Start your turn by drawing *up to* 2 cards,
+Draw to start your turn.
+Draw *up to* 2 cards,
 as long as you won't have more than 4 cards.
 
-You can draw from your draw pile or your discard pile,
+Choose to draw from your draw pile or your discard pile,
 but not both in the same turn.
 
 If your draw pile is empty,
@@ -160,15 +163,13 @@ shuffle your discard pile into a new draw pile.
 Play Cards
 --------------------------------------------------
 
-It's important to play cards to the table
-in order to gain points and take the opponent's cards.
-
-When you can form runs/sets from the cards in your hand,
-you can play them to the table.
-You can play cards which add to existing runs/sets as well.
+Play cards to the table in order to
+gain points and take the opponent's cards.
+You can play runs/sets from your hand,
+or you can add to existing runs/sets.
 
 Once runs/sets have been played,
-they are not "owned" by either player.
+they are not "owned" by either player until scoring.
 You may add on to the opponent's runs/sets,
 and they may add on to yours.
 
@@ -180,7 +181,7 @@ you can sometimes play the opponent's DUKES or FIEF to the table. \
 Rearrange Cards
 --------------------------------------------------
 
-You can rearrange the runs/sets in play to change the layout of the table.
+Rearrange runs/sets in order to change the layout of the table.
 This is where much of the game's strategy comes from,
 as it allows you to get the opponent's cards stuck.
 
@@ -223,12 +224,8 @@ For instance, you cannot pick up a card that was played on a previous turn and p
 Take the Opponent's DUKES
 --------------------------------------------------
 
-FIEFS start the game face-down and protected.
-Before you can take the opponent's FIEF,
-you have to get through the DUKES that are guarding it.
-
-To take one of the opponent's DUKES,
-play it in a valid run/set, just like cards from your hand.
+Take an opposing DUKE by fitting it into a valid run/set,
+just like cards from your hand.
 
 Once both of a player's DUKES are gone,
 their FIEF must be flipped up *at the start of their next turn*.
@@ -241,10 +238,10 @@ with a catch. \
 Swap Out Your DUKES
 --------------------------------------------------
 
-In order to protect your own DUKES,
-you can swap them out.
-Just pick up the original DUKE and put it in your hand.
-Then, use a card from your hand to replace it.
+Protect your own DUKES by swapping them out.
+Pick up the original DUKE and put it in your hand;
+then, use a card from your hand to replace it.
+You cannot replace DUKES that were already empty.
 
 When you pick up a DUKE, you do not *have* to replace it.
 You may choose to leave it empty instead,
@@ -254,7 +251,7 @@ you must flip up your FIEF *at the start of your next turn*,
 just like if the opponent took them.
 
 **The first player's first turn is a special case.**
-On this turn, you can only swap out DUKES if you play the original DUKE in a run/set.
+On this turn, you can only swap out DUKES if you immediately play the original DUKE in a run/set.
 You cannot just pick up a DUKE and put it in your hand.
 
 *You cannot swap out your FIEF like a DUKE.
@@ -263,7 +260,7 @@ You cannot just pick up a DUKE and put it in your hand.
 Protect Your FIEF
 --------------------------------------------------
 
-Finally, there is a way to protect your FIEF once it is face-up.
+Protect a face-up FIEF by creating a DUKE.
 
 Each turn, if your FIEF is face-up and you have no DUKES otherwise,
 you may use a card from your hand to create a single DUKE.
@@ -275,7 +272,7 @@ and you cannot create DUKES when your FIEF is face-down.
 Discard
 --------------------------------------------------
 
-To end your turn, you must discard.
+You must discard to end your turn.
 Cards are discarded face-down to your own discard pile.
 
 You have four options when discarding:
@@ -296,7 +293,7 @@ You cannot look at it.
 You can only do this if it leaves a valid arrangement of runs and sets behind.
 Remember that runs/sets must be in a valid arrangement *before* you discard, as well.
 	> This is a valuable tool for defensive play,
-	but you are losing a point each time you use it.
+	but you are losing a point each time you do it.
 
 Once you discard, your turn is over.
 The other player may draw to start their turn.
@@ -310,7 +307,7 @@ Ending the Game
 Take the opponent's FIEF to end the game.
 
 Once the opponent's FIEF is face-up,
-you can play it in runs/sets.
+it can be taken and played in runs/sets.
 However, you *must* take any DUKES guarding it in the same turn.
 Taking the FIEF ends the game;
 move on to scoring.
