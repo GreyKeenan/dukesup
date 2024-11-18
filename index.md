@@ -526,23 +526,29 @@ width="49%"
 Scoring
 ==================================================
 
-At the end of the game, the player with the most cards on the table wins.
-Count up remaining DUKES, remaining FIEFS, and cards in runs/sets.
+Count how many individual cards you have in runs/sets on the table.
 All cards of your color are considered yours.
+Then, add 2 for each remaining DUKE/FIEF.
+The highest score wins.
+
+In the case of a tie,
+the player whose turn it was when the game ended wins.
+This will be the player who took their opponent's FIEF,
+or the player who emptied their draw/discard piles.
+
+---
+
+<div style="text-align: center">
+<a href="assets/takeFief_post.jpg" target="_blank">
+<img
+src="assets/takeFief_post.jpg"
+width="49%"
+/>
+</a>
+</div>
+
+> The black player has 8 points, and the red player has 11 points (7 on the table, and 4 for their DUKE + FIEF).
+
+---
 
 <br>
-
-<!--
-
-Other images
-
-	taking dukes
-		before & after
-	? protect fief
-		before & after
-	taking FIEF & DUKE
-		before & after
-
-	? invalid arrangement
-
--->
