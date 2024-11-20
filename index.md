@@ -4,13 +4,13 @@ Dukes Up!
 
 > by Samuel Grey Keenan and Samuel Olaf Keenan
 
-"Dukes Up!" is a 2-player card game.
-All you need is a standard deck of cards and a bit of table space.
-It's a great option for those familiar with rummy-style games who want to mix it up.
-A single game of "Dukes Up!" takes around 15-20 minutes.
+"Dukes Up!" is a 2-player card game played with a standard deck of cards.
+It has rummy-style elements that might be familiar,
+but with its own twist.
+Once you get the hang of it,
+a single game of "Dukes Up!" takes around 15 minutes.
 
-> We are working on a video tutorial and visual aids.
-The current images are temporary placeholders.
+> A video tutorial and other visual aids are in the works!
 
 <br>
 
@@ -57,6 +57,11 @@ The FIEFS remain face-down.
 1. With both players' DUKES revealed,
 the first player can start their turn.
 
+<!--
+Once your FIEF is in place,
+you can't check what it is!
+-->
+
 ---
 
 <div style="text-align: center">
@@ -76,7 +81,7 @@ width="50%"
 Overview
 ==================================================
 
-Throughout the game, you play cards to the table in runs and sets.
+Throughout the game, you play cards in runs and sets.
 Your goal is to take the opponent's FIEF by fitting it into runs/sets on the table.
 
 FIEFS start the game face-down and protected.
@@ -94,7 +99,7 @@ Runs and sets are ways to group cards together.
 In "Dukes Up!" and many other rummy-style games,
 creating runs/sets allows you to play cards to the table.
 <!--
-If you're completely unfamiliar with runs and sets,
+If you're completely unfamiliar with melds,
 this game might be a bit confusing,
 but we'll do our best to explain.
 -->
@@ -186,7 +191,7 @@ width="49%"
 </a>
 </div>
 
-> (The player plays cards from their hand, creating a new run and adding to an existing one.)
+> (Red plays cards from their hand, creating a new run and adding to an existing one.)
 
 ---
 
@@ -229,7 +234,7 @@ width="49%"
 </a>
 </div>
 
-> (The player rearranges cards in order to play.)
+> (Red rearranges cards in order to play.)
 
 ---
 
@@ -286,7 +291,7 @@ width="49%"
 </a>
 </div>
 
-> (The opponent's `eight of spades` is taken in a run using cards from the player's hand.)
+> (Red takes Black's `eight of spades` in a run using cards from their hand.)
 
 ---
 
@@ -346,7 +351,7 @@ width="49%"
 </a>
 </div>
 
-> (The `five of diamonds` is a risky DUKE, so the player swaps it for the `three of diamonds`.)
+> (The `five of diamonds` is a risky DUKE, so Red swaps it for the `three of diamonds`.)
 
 ---
 
@@ -392,7 +397,7 @@ width="49%"
 </a>
 </div>
 
-> (The player has no DUKES, so they create a single new DUKE with a card from their hand.)
+> (Red has no DUKES, so they create a single new DUKE with a card from their hand.)
 
 ---
 
@@ -440,7 +445,8 @@ width="49%"
 </a>
 </div>
 
-> (The player discards a card off of the table in order to protect their DUKE.
+> (To prevent their `seven of diamonds` DUKE from being played in the run,
+Red discards their `six of diamonds` at the end of their turn.
 Notice that the remaining cards are all still in a valid run.)
 
 ---
@@ -479,7 +485,7 @@ width="49%"
 </a>
 </div>
 
-> (The player takes the opponent's fief to end the game!)
+> (Red takes Black's FIEF to end the game!)
 
 ---
 
@@ -499,7 +505,9 @@ Because you are playing your own FIEF, you *must* take the opponent's in this tu
 You cannot end the game by eliminating your own FIEF.
 
 To use your FIEF, play it in runs/sets just like any other card.
-If you are unable to take the opponent's FIEF, you must return your FIEF to its position, *face-up*.
+It doesn't matter whether your FIEF started face-up or face-down.
+If you are unable to take the opponent's FIEF,
+you must return your FIEF to its position, *face-up*.
 
 ---
 
@@ -518,7 +526,7 @@ width="49%"
 </a>
 </div>
 
-> (The player uses their own FIEF to take the opponent's and end the game!)
+> (Red uses their own FIEF to take Black's and end the game!)
 
 ---
 
@@ -535,15 +543,6 @@ All cards of your color are considered yours.
 
 The higher score wins,
 and the attacker wins in a tie.
-
-<!--
-Count up your remaining DUKES, remaining FIEF,
-and your cards in runs/sets.
-All cards of your color are considered yours.
-If you took your opponent's FIEF, add a 3 point bonus to your score.
-The player with the higher score wins,
-and the attacker wins in a tie.
--->
 
 ---
 
@@ -569,3 +568,32 @@ and +3 for taking out their opponent)
 Have fun!
 
 <br>
+
+<!--
+It's tempting to be competitive
+and try to keep your though processes secret,
+but in our esperience,
+it's more fun to talk through your plans, or lie, out loud.
+-->
+
+<!--
+Additional rules
+==================================================
+
+* jokers
+	* under draw
+	* randomly
+	* finishing pils reward
+	* as FIEF
+* scoring variants
+	* 2-5 bonus
+* swapping FIEF
+* guessing FIEF
+-->
+
+<!--
+rule variants
+
+* use the term "melds"
+* pure-rules, no help/flavor
+-->
