@@ -526,15 +526,12 @@ width="49%"
 Scoring
 ==================================================
 
-Count how many individual cards you have in runs/sets on the table.
-All cards of your color are considered yours.
-Then, add 2 for each remaining DUKE/FIEF.
 The highest score wins.
-
-In the case of a tie,
-the player whose turn it was when the game ended wins.
-This will be the player who took their opponent's FIEF,
-or the player who emptied their draw/discard piles.
+Count your cards in runs/sets,
+as well as any remaining DUKES or FIEF.
+All cards of your color are considered yours.
+Finally, the player who took out their opponent's FIEF adds 3 to their score,
+and they win in a tie.
 
 ---
 
@@ -547,7 +544,11 @@ width="49%"
 </a>
 </div>
 
-> The black player has 8 points, and the red player has 11 points (7 on the table, and 4 for their DUKE + FIEF).
+> Black has 8 points,
+and red has 12.
+(7 cards in runs/sets,
+1 DUKE, 1 FIEF,
+and +3 for taking out their opponent)
 
 ---
 
