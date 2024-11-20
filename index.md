@@ -526,12 +526,24 @@ width="49%"
 Scoring
 ==================================================
 
-The highest score wins.
-Count your cards in runs/sets,
-as well as any remaining DUKES or FIEF.
+Count up the points to see who won!
+
+* Add 1 point for each of your cards in runs/sets on the table.
 All cards of your color are considered yours.
-Finally, the player who took out their opponent's FIEF adds 3 to their score,
-and they win in a tie.
+* Add 1 point for each of your remaining DUKES/FIEF.
+* Add a 3-point bonus if you eliminated the opponent's FIEF.
+
+The higher score wins,
+and the attacker wins in a tie.
+
+<!--
+Count up your remaining DUKES, remaining FIEF,
+and your cards in runs/sets.
+All cards of your color are considered yours.
+If you took your opponent's FIEF, add a 3 point bonus to your score.
+The player with the higher score wins,
+and the attacker wins in a tie.
+-->
 
 ---
 
@@ -551,5 +563,9 @@ and red has 12.
 and +3 for taking out their opponent)
 
 ---
+
+<br>
+
+Have fun!
 
 <br>
