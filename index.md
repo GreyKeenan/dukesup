@@ -150,7 +150,7 @@ There are a few things to do on your turn.
 	* Take the opponent's DUKES
 	* Swap out your DUKES
 	* Protect your FIEF
-1. End your turn by discading.
+1. End your turn by discarding.
 
 Draw
 --------------------------------------------------
