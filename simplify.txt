@@ -1,0 +1,101 @@
+Simplifying the Game
+==================================================
+
+INDEX
+* Areas to simplify, and how
+  * Runs/sets
+  * Drawing
+  * Discarding
+
+==================================================
+
+Areas to simplify, and how
+==================================================
+
+Runs/sets
+--------------------------------------------------
+
+The suits for runs is the main way to simplify runs/sets.
+Options could be:
+
+* suits dont matter
+* (current) spades/diamonds hearts/clubs
+
+
+Drawing
+--------------------------------------------------
+
+When drawing cards,
+the *number* you draw
+and *where* you draw from
+are two factors that compound complexity.
+
+For simplifying the number, we could do:
+
+* draw up to a limit
+* draw 1, up to a limit
+* (current) draw 2, up to a limit
+
+For simplifying the where-from, could consider:
+
+* draw from draw pile only
+* (current) draw from draw or discard pile
+
+
+Discarding
+--------------------------------------------------
+
+This is the main target of simplification imo.
+Currently, there are *4* ways to discard,
+and each of them have unique rules to consider.
+
+Currently, you can:
+
+* 1 from hand
+* 2 from hand
+  * ONLY if you do nothing else
+* 1 from board
+  * valid before
+  * valid after
+* 1 from draw
+  * CANT look at it
+  * to BOTTOM of discard
+
+A proposal:
+
+* discard 1 card to end your turn.
+* This may be taken from:
+  * your hand
+  * yours from the table
+    * ?valid arrangement?
+  * your draw pile
+    * cant look at it
+    * ~~bottom of discard~~
+* If you do nothing on your turn,
+  you may discard twice.
+
+Alternatively
+
+* you can discard two/twice whenever
+* not discarding to the bottom of the pile
+  when you burn,
+  This is worse strategically,
+  but potentially worth it.
+* Find an alternative mechanic for
+  removing cards from the board.
+  That way, it doesnt have to add complexity to discarding.
+* The same, but for burning?
+  No, that doesnt really make sense.
+  The point of burning is:
+  1) avoid discarding cards you want
+  2) introduce uncertainty as to what is in your deck.
+
+  Perhaps burning could be removed,
+  and another mechanism for uncertainty added.
+  That might just be annoying though.
+* Are there alternatives to discarding entirely?
+  Like, is there some other entire thing which
+  could fill a similar purpose.
+  Don't get stuck thinking in terms of
+  traditional discarding mechanics.
+  I mean, that might be a bit of a semantics game though.
