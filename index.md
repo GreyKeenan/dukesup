@@ -36,13 +36,12 @@ Setup
 ==================================================
 
 1. Choose a player to go first.
-If you are playing multiple games, switch back and forth.
-1. Split the deck in half by color.
-One player gets clubs/spades, and the other gets hearts/diamonds.
-Remove the jokers.
+<!--If you are playing multiple games, switch back and forth.-->
+1. Remove the jokers, and split the deck in half by color.
+One player takes clubs/spades, and the other takes hearts/diamonds.
 1. Shuffle your half of the deck and draw 4 cards.
 Set the remaining cards aside as your draw pile.
-Players have their own draw and discard piles.
+(Players have their own draw and discard piles.)
 1. Choose 1 of the 4 cards as your FIEF, and place it face-down on the table.
 Choose 2 cards as your DUKES, and place them face-down in front of your FIEF.
 The left-over card will be part of your starting hand.
@@ -50,7 +49,7 @@ The left-over card will be part of your starting hand.
 	but if this is your first time playing,
 	we recommend just picking something to get started.
 	You'll get a feel for it once you're more familiar with the game.
-1. Leave space on the table for the "play area".
+<!-- 1. Leave space on the table for the "play area". -->
 1. Once both players have chosen their cards,
 they say, “Dukes Up!” and flip up their DUKES in unison.
 The FIEFS remain face-down.
@@ -406,27 +405,18 @@ Discard
 --------------------------------------------------
 
 You must discard to end your turn.
-Cards are discarded face-down to your own discard pile.
+Discard a single card face-down to your own discard pile.
+The card may come from your hand, your draw pile,
+or one of your-color cards on the table.
 
-You have four options when discarding:
+* If you discard from the draw pile,
+you cannot look at the card.
+* If you discard one of your cards from the table,
+you must leave a valid arrangement of
+runs and sets behind.
 
-1. Discard 1 card from your hand to the top of your discard pile.
-	> This is the most basic option.
-2. Discard 2 cards from your hand to the top of your discard pile.
-This can only be done if you perform no other actions during your turn.
-You cannot play, replace DUKES, or take the opponent's DUKES.
-	> Generally, if you aren't able to play anyways,
-	this is a good choice.
-3. Discard 1 card from the top of your draw pile to the *bottom* of your discard pile.
-You cannot look at it.
-	> We like to call this "burning".
-	It allows you to hold on to important cards,
-	but it comes at the cost of not knowing what you discarded.
-4. Discard 1 of *your own* cards from the play area to the top of your discard pile.
-You can only do this if it leaves a valid arrangement of runs and sets behind.
-Remember that runs/sets must be in a valid arrangement *before* you discard, as well.
-	> This is a valuable tool for defensive play,
-	but you are losing a point each time you do it.
+Finally, if you don't didn't do anything else on your turn,
+you can choose to discard twice.
 
 ---
 
@@ -445,9 +435,9 @@ width="49%"
 </a>
 </div>
 
-> (To prevent their `seven of diamonds` DUKE from being played in the run,
+> (To prevent their `seven of diamonds` DUKE from being played,
 Red discards their `six of diamonds` at the end of their turn.
-Notice that the remaining cards are all still in a valid run.)
+Notice that the remaining cards still make a complete run.)
 
 ---
 

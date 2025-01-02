@@ -6,11 +6,15 @@ INDEX
   * Runs/sets
   * Drawing
   * Discarding
+* Rules that maybe can be eliminated
 
 ==================================================
 
 Areas to simplify, and how
 ==================================================
+
+This isnt all potential areas.
+Its just the ones I wanted to elaborate on.
 
 Runs/sets
 --------------------------------------------------
@@ -99,3 +103,19 @@ Alternatively
   Don't get stuck thinking in terms of
   traditional discarding mechanics.
   I mean, that might be a bit of a semantics game though.
+
+
+Rules that maybe can be eliminated
+==================================================
+
+rules w/ alternatives
+
+* playing your fief.
+  Maybe the fief should be just like a duke,
+  where you can swap it out any time.
+
+
+things to consider or come up with better solutions for,
+which are less confusing
+
+* creating new DUKE when you dont have one
