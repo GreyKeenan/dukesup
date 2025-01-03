@@ -151,6 +151,7 @@ you should take their DUKE and play it to the table.
     />
   </a>
 </div>
+<br>
 
 Finally, keep in mind that you can rearrange existing runs/sets.
 However, before you discard,
