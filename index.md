@@ -16,13 +16,13 @@ a single game takes about 15 minutes.
 <br>
 
 <!-- INDEX -->
-* Overview
-* Setup
-* Taking Your Turn
-  * Runs, Sets, and Rearranging Cards
-* Ending the Game
-* Extra Balancing Rules
-* More Examples
+* [Overview](#overview)
+* [Setup](#setup)
+* [Taking Your Turn](#taking-your-turn)
+  * [Runs, Sets, and Rearranging Cards](#runs-sets-and-rearranging-cards)
+* [Ending the Game](#ending-the-game)
+* [Extra Balancing Rules](#extra-balancing-rules)
+* [More Examples](#more-examples)
 
 <br>
 
