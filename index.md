@@ -11,15 +11,18 @@ while trying to protect their CASTLES.
 Once you learn how to play,
 a single game takes about 15 minutes.
 
+> A video tutorial is on the way!
+
 <br>
 
 <!-- INDEX -->
 * Overview
 * Setup
 * Taking Your Turn
+  * Runs, Sets, and Rearranging Cards
 * Ending the Game
 * Extra Balancing Rules
-* Examples & Elaboration
+* More Examples
 
 <br>
 
@@ -58,26 +61,25 @@ From here, the first player can start their turn.
 Taking Your Turn
 --------------------------------------------------
 
-<!--
-1. draw
-1. flip CASTLE
-1. play cards
-1. rearrange
-1. take dukes
-1. replace dukes
-1. discard
--->
-
-First, start your turn by drawing
-from your draw pile.
+Start your turn by drawing.
 Draw up to 2 cards,
 but you can't have more than 4 cards.
+If your draw pile is empty,
+reshuffle your discard pile.
 
 Next, if you have no DUKES,
-flip your CASTLE face-up.
+you must flip your CASTLE face-up.
 
 
-...
+Then, you can play.
+Take any combination of the following actions:
+
+* Create runs/sets using cards from your hand,
+  the opponent's DUKES, or by rearranging cards on the table.
+  > (See "Runs, Sets, and Rearranging Cards" below)
+* Swap out your remaining DUKES with cards from your hand.
+* If you have *no* DUKES,
+  create a single DUKE with a card from your hand.
 
 
 Finally, you must discard to end your turn.
@@ -89,20 +91,35 @@ Choose one of the following options:
 * Discard 1 of your-color cards off of the table.
   The remaining cards must all be in valid runs/sets.
 
-If you do nothing else on your turn,
+If you don't play on your turn,
 you may discard twice instead of once.
 
 Discarding ends your turn.
-The opponent is free to draw and start their turn.
+The opponent is free to draw and start the next turn.
+
+
+### Runs, Sets, and Rearranging Cards
+
+<!--
+* runs/sets, valid arrangement
+* rearranging
+-->
 
 
 Ending the Game
 --------------------------------------------------
 
-<!--
-* when it ends: taking CASTLE
-* scoring
--->
+Once you take the opponent's CASTLE,
+the game ends.
+Alternatively, if your draw and discard piles are both empty,
+the game ends.
+
+Players get 1 point for each card of their color on the table.
+(This includes cards in runs/sets,
+remaining DUKES, and remaining CASTLES.)
+The player who eliminated their opponent's CASTLE
+gets a 3 point bonus.
+The higher score wins.
 
 Extra Balancing Rules
 --------------------------------------------------
@@ -113,16 +130,18 @@ for balancing (and fun-ness) purposes.
 
 <!--
 * no swapping turn 1
-* draw from discard
+* draw from discard ? maybe as default rule
 * burning to bottom of discard
 * playing your CASTLE
 -->
 
-Examples & Elaboration
---------------------------------------------------
+
+More Examples
+==================================================
 
 <!--
-* runs/sets, valid arrangement
-* rearranging
-* ?playing CASTLE?
+* rearranging to play
+* swapping out DUKES
+* creating DUKE
+* playing your CASTLE
 -->
