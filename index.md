@@ -121,18 +121,19 @@ and clubs/hearts can go together.
 
 > An easy way to remember which suits go together
   is to look at the suit symbol.
-  If the top is pointed, it is a "thorn",
-  and they can go together.
-  If it is rounded, it is a "flower" instead.
+  If the top is pointed, it's a "thorn";
+  if it's rounded, it's a "flower".
+  Thorns go with thorns, and flowers go with flowers.
 
-A set: `five of hearts`, `five of spades`, `five of diamonds` \
-A run: `ace of spades`, `two of spades`, `three of diamonds`
+set: 5&#9824;, 5&#9825;, 5&#9826; \
+run of thorns: A&#9826;, 2&#9826;, 3&#9824; \
+run of flowers: 10&#9827;, J&#9827;, Q&#9825;, K&#9825;, A&#9827;
 
 If you can form a run/set with cards from your hand,
 you can play it to the table.
 Or, if you can form a run/set with the opponent's DUKE
 (or face-up CASTLE),
-you can and should play it to the table.
+you should take their DUKE and play it to the table.
 
 Finally, keep in mind that you can rearrange existing runs/sets.
 However, before you discard,
