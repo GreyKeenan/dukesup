@@ -11,7 +11,7 @@ while trying to protect their CASTLES.
 Once you learn how to play,
 a single game takes about 15 minutes.
 
-> A video tutorial is on the way!
+> A video tutorial is on the way.
 
 <br>
 
@@ -29,13 +29,22 @@ a single game takes about 15 minutes.
 Overview
 --------------------------------------------------
 
-<!--
-* have CASTLE
-* DUKES protect castle
-* take DUKES/CASTLE in runs/sets
--->
+Each player has a card called the "CASTLE".
+The goal is to take the opponent's CASTLE
+by playing it in a run/set.
+However, cards called "DUKES" protect the castle,
+and must be taken first.
 
-<!-- image: basic table layout -->
+<div style="text-align: center">
+  <a href="assets/setupUp.jpg" target="_blank">
+    <img
+      width="50%"
+      src="assets/setupUp.jpg"
+      alt="an example of the table during play"
+    />
+  </a>
+</div>
+
 
 Setup
 --------------------------------------------------
@@ -43,8 +52,7 @@ Setup
 1. Split the deck in half by color.
   One player takes clubs/spades;
   the other gets hearts/diamonds.
-1. Shuffle your half of the deck,
-  and draw 4 cards.
+1. Shuffle your half of the deck and draw 4 cards.
   Set the remaining cards aside as your draw pile.
 1. Select 1 of the 4 cards as your CASTLE,
   and place it face-down on the table.
@@ -52,7 +60,7 @@ Setup
   and place them face-down in front of the CASTLE.
   The remaining card will be part of your starting hand.
 1. Once both players have selected their DUKES,
-  they say, "Dukes Up!" in unison and flip up their DUKES.
+  they say, "Dukes Up!" and flip up their DUKES in unison.
   The CASTLES remain face-down for now.
 
 From here, the first player can start their turn.
@@ -75,9 +83,10 @@ Then, you can play.
 Take any combination of the following actions:
 
 * Create runs/sets using cards from your hand,
-  the opponent's DUKES, or by rearranging cards on the table.
+  the opponent's DUKES/CASTLE,
+  or by rearranging cards on the table.
   > (See "Runs, Sets, and Rearranging Cards" below)
-* Swap out your remaining DUKES with cards from your hand.
+* Switch your remaining DUKES with cards from your hand.
 * If you have *no* DUKES,
   create a single DUKE with a card from your hand.
 
@@ -86,10 +95,10 @@ Finally, you must discard to end your turn.
 Choose one of the following options:
 
 * Discard a card from your hand.
-* Discard the top card of your draw pile.
+* Discard a card from your draw pile.
   Do not look at it.
 * Discard 1 of your-color cards off of the table.
-  The remaining cards must all be in valid runs/sets.
+  The remaining cards must be in valid runs/sets.
 
 If you don't play on your turn,
 you may discard twice instead of once.
@@ -100,10 +109,52 @@ The opponent is free to draw and start the next turn.
 
 ### Runs, Sets, and Rearranging Cards
 
-<!--
-* runs/sets, valid arrangement
-* rearranging
--->
+A set is a group of 3+ cards,
+all with the same value.
+
+A run is a group of 3+ cards,
+where cards have sequential values.
+In "Dukes Up!",
+cards in runs must have coordinating suits.
+Spades/diamonds can go together,
+and clubs/hearts can go together.
+
+> An easy way to remember which suits go together
+  is to look at the suit symbol.
+  If the top is pointed, it is a "thorn",
+  and they can go together.
+  If it is rounded, it is a "flower" instead.
+
+A set: `five of hearts`, `five of spades`, `five of diamonds` \
+A run: `ace of spades`, `two of spades`, `three of diamonds`
+
+If you can form a run/set with cards from your hand,
+you can play it to the table.
+Or, if you can form a run/set with the opponent's DUKE
+(or face-up CASTLE),
+you can and should play it to the table.
+
+Finally, keep in mind that you can rearrange existing runs/sets.
+However, before you discard,
+all cards previously played to the table
+must be in valid runs/sets.
+
+<div style="text-align: center">
+  <a href="assets/rearrangeSimple_pre.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/rearrangeSimple_pre.jpg"
+      alt="simple rearranging example, part 1"
+    />
+  </a>
+  <a href="assets/rearrangeSimple_post.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/rearrangeSimple_post.jpg"
+      alt="simple rearranging example, part 2"
+    />
+  </a>
+</div>
 
 
 Ending the Game
@@ -128,19 +179,26 @@ Once you are more familiar with the game,
 we *highly* recommend adding these rules
 for balancing (and fun-ness) purposes.
 
-<!--
-* no swapping turn 1
-* draw from discard ? maybe as default rule
-* burning to bottom of discard
-* playing your CASTLE
--->
+* On the first player's first turn,
+  they can't switch their DUKES.
+* When you draw cards at the start of your turn,
+  you can choose to draw from your discard pile instead.
+* When you discard a card from your draw pile,
+  place it on the bottom of your discard pile.
+* On your final turn,
+  you can play your CASTLE in a run/set.
+  If you can't end the game in that turn,
+  you must return your CASTLE to its position.
 
 
 More Examples
-==================================================
+--------------------------------------------------
 
+TODO
 <!--
 * rearranging to play
+  * doing it
+  * valid/invalid arrangements
 * swapping out DUKES
 * creating DUKE
 * playing your CASTLE
