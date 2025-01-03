@@ -176,7 +176,7 @@ The higher score wins.
 Extra Balancing Rules
 --------------------------------------------------
 
-Once you are more familiar with the game,
+Once you've played a couple times,
 we *highly* recommend adding these rules
 for balancing (and fun-ness) purposes.
 
@@ -196,6 +196,7 @@ More Examples
 --------------------------------------------------
 
 TODO
+
 <!--
 * rearranging to play
   * doing it
