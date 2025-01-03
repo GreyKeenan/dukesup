@@ -26,6 +26,7 @@ a single game takes about 15 minutes.
 
 <br>
 
+
 Overview
 --------------------------------------------------
 
@@ -209,6 +210,7 @@ remaining DUKES, and remaining CASTLES.)
 The player who eliminated their opponent's CASTLE
 gets a 3 point bonus.
 The higher score wins.
+
 
 Extra Balancing Rules
 --------------------------------------------------
