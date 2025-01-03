@@ -1,6 +1,8 @@
 "Dukes Up!" Examples
 ==================================================
 
+**THIS PAGE IS A WIP**
+
 Additional examples for how to play "Dukes Up!".
 The main rules page can be found [here](index.html).
 

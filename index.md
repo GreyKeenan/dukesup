@@ -216,16 +216,12 @@ for balancing (and fun-ness) purposes.
 More Examples
 --------------------------------------------------
 
-TODO
+If you're still confused, no worries.
 
-<!--
-* rearranging to play
-  * doing it
-  * valid/invalid arrangements
-* swapping out DUKES
-* creating DUKE
-* playing your CASTLE
--->
+<!-- link to videos. -->
+
+For additional examples of gameplay,
+see [this page](examples.html).
 
 <!--
 <div style="text-align: center">
