@@ -32,7 +32,7 @@ Overview
 Each player has a card called the "CASTLE".
 The goal is to take the opponent's CASTLE
 by playing it in a run/set.
-However, cards called "DUKES" protect the castle,
+However, cards called "DUKES" protect the CASTLE,
 and must be taken first.
 
 <div style="text-align: center">
@@ -70,8 +70,8 @@ Taking Your Turn
 --------------------------------------------------
 
 Start your turn by drawing.
-Grab up to 2 cards,
-but you can't have more than 4 cards total.
+Draw 2 cards at most,
+but your hand can't have more than 4 cards.
 If your draw pile is empty,
 reshuffle your discard pile.
 
@@ -135,11 +135,29 @@ Or, if you can form a run/set with the opponent's DUKE
 (or face-up CASTLE),
 you should take their DUKE and play it to the table.
 
+<div style="text-align: center">
+  <a href="assets/takeDuke_pre.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/takeDuke_pre.jpg"
+      alt="taking a duke, part 1"
+    />
+  </a>
+  <a href="assets/takeDuke_post.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/takeDuke_post.jpg"
+      alt="taking a duke, part 2"
+    />
+  </a>
+</div>
+
 Finally, keep in mind that you can rearrange existing runs/sets.
 However, before you discard,
 all cards previously played to the table
 must be in valid runs/sets.
 
+<!--
 <div style="text-align: center">
   <a href="assets/rearrangeSimple_pre.jpg" target="_blank">
     <img
@@ -153,6 +171,24 @@ must be in valid runs/sets.
       width="49%"
       src="assets/rearrangeSimple_post.jpg"
       alt="simple rearranging example, part 2"
+    />
+  </a>
+</div>
+-->
+
+<div style="text-align: center">
+  <a href="assets/takeFief_pre.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/takeFief_pre.jpg"
+      alt="complex play, part 1"
+    />
+  </a>
+  <a href="assets/takeFief_post.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/takeFief_post.jpg"
+      alt="complex play, part 1"
     />
   </a>
 </div>
@@ -189,7 +225,7 @@ for balancing (and fun-ness) purposes.
 * On your final turn,
   you can play your CASTLE in a run/set.
   If you can't end the game in that turn,
-  you must return your CASTLE to its position.
+  you must return your CASTLE to its position, face-up.
 
 
 More Examples
