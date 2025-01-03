@@ -93,6 +93,7 @@ Take any combination of the following actions:
 
 
 Finally, you must discard to end your turn.
+Players have their own discard piles.
 Choose one of the following options:
 
 * Discard a card from your hand.
