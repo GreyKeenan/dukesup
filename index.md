@@ -21,7 +21,7 @@ a single game takes about 15 minutes.
 * [Taking Your Turn](#taking-your-turn)
   * [Runs, Sets, and Rearranging Cards](#runs-sets-and-rearranging-cards)
 * [Ending the Game](#ending-the-game)
-* [Extra Balancing Rules](#extra-balancing-rules)
+* [Extra Rules](#extra-rules)
 * [More Examples](#more-examples)
 
 <br>
@@ -159,25 +159,6 @@ However, before you discard,
 all cards previously played to the table
 must be in valid runs/sets.
 
-<!--
-<div style="text-align: center">
-  <a href="assets/rearrangeSimple_pre.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/rearrangeSimple_pre.jpg"
-      alt="simple rearranging example, part 1"
-    />
-  </a>
-  <a href="assets/rearrangeSimple_post.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/rearrangeSimple_post.jpg"
-      alt="simple rearranging example, part 2"
-    />
-  </a>
-</div>
--->
-
 <div style="text-align: center">
   <a href="assets/takeFief_pre.jpg" target="_blank">
     <img
@@ -212,7 +193,7 @@ gets a 3 point bonus.
 The higher score wins.
 
 
-Extra Balancing Rules
+Extra Rules
 --------------------------------------------------
 
 Once you've played a couple times,
@@ -243,4 +224,23 @@ TODO
 * swapping out DUKES
 * creating DUKE
 * playing your CASTLE
+-->
+
+<!--
+<div style="text-align: center">
+  <a href="assets/rearrangeSimple_pre.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/rearrangeSimple_pre.jpg"
+      alt="simple rearranging example, part 1"
+    />
+  </a>
+  <a href="assets/rearrangeSimple_post.jpg" target="_blank">
+    <img
+      width="49%"
+      src="assets/rearrangeSimple_post.jpg"
+      alt="simple rearranging example, part 2"
+    />
+  </a>
+</div>
 -->
