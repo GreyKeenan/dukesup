@@ -70,8 +70,8 @@ Taking Your Turn
 --------------------------------------------------
 
 Start your turn by drawing.
-Draw up to 2 cards,
-but you can't have more than 4 cards.
+Grab up to 2 cards,
+but you can't have more than 4 cards total.
 If your draw pile is empty,
 reshuffle your discard pile.
 
