@@ -40,15 +40,21 @@ and must be taken first.
 Setup
 ==================================================
 
+<!--
+
 <div style="text-align: center">
-  <a href="assets/diagram.png" target="_blank">
+  <a href="assets/diagram_short.png" target="_blank">
     <img
       width="70%"
-      src="assets/diagram.png"
+      src="assets/diagram_short.png"
       alt="an example of the table during play"
     />
   </a>
 </div>
+---
+-->
+
+![example of how to lay out your cards](assets/diagram_short.png)
 
 1. Remove jokers and split the deck by color.
   Give one player all the clubs/spades,
