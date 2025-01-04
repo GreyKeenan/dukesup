@@ -40,20 +40,6 @@ and must be taken first.
 Setup
 ==================================================
 
-<!--
-
-<div style="text-align: center">
-  <a href="assets/diagram_short.png" target="_blank">
-    <img
-      width="70%"
-      src="assets/diagram_short.png"
-      alt="an example of the table during play"
-    />
-  </a>
-</div>
----
--->
-
 ![example of how to lay out your cards](assets/diagram_short.png)
 
 1. Remove jokers and split the deck by color.
@@ -99,9 +85,9 @@ Take any combination of the following actions:
 * If you have *no* DUKES,
   create a new DUKE with a card from your hand.
 
-
 Last, you must discard to end your turn.
-Players have their own discard piles.
+Cards are discarded face-down
+to your own discard pile.
 Choose one of the following:
 
 * Discard a card from your hand.
@@ -128,8 +114,8 @@ A run is a group of 3+ cards
 with sequential values
 and coordinated suits.
 In "Dukes Up!",
-spades/diamonds go together
-and clubs/hearts go together.
+**spades/diamonds** go together
+and **clubs/hearts** go together.
 
 An easy way to remember which suits go together
 is to look at the suit symbol.
