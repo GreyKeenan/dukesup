@@ -224,3 +224,9 @@ One of the extra rules allows you to play your CASTLE
 as a finishing move.
 Here, Red plays their CASTLE in order to end the game
 by taking their opponent's CASTLE.
+
+<br>
+<br>
+<br>
+<br>
+<br>

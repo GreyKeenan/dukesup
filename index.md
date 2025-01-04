@@ -137,6 +137,8 @@ Or, if you can form a run/set with the opponent's DUKE
 (or face-up CASTLE),
 you should take their DUKE and play it to the table.
 
+<!-- TODO: can only take CASTLE if take guarding DUKE -->
+
 <div style="text-align: center">
   <a href="assets/takeDuke_pre.jpg" target="_blank">
     <img
@@ -226,3 +228,8 @@ Video examples and a tutorial
 can be found at [TODO](...).
 -->
 
+<br>
+<br>
+<br>
+<br>
+<br>
