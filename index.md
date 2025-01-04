@@ -36,6 +36,10 @@ by playing it in a run/set.
 However, cards called "DUKES" protect the CASTLE,
 and must be taken first.
 
+
+Setup
+==================================================
+
 <div style="text-align: center">
   <a href="assets/diagram.png" target="_blank">
     <img
@@ -45,10 +49,6 @@ and must be taken first.
     />
   </a>
 </div>
-
-
-Setup
-==================================================
 
 1. Remove jokers and split the deck by color.
   Give one player all the clubs/spades,
@@ -67,17 +67,6 @@ Setup
 
 From here, the first player can start their turn.
 
-<div style="text-align: center">
-  <a href="assets/setupUp.jpg" target="_blank">
-    <img
-      width="50%"
-      src="assets/setupUp.jpg"
-      alt="an example of the table during play"
-    />
-  </a>
-</div>
-
-> It should look something like this.
 
 Taking Your Turn
 ==================================================
