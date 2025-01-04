@@ -135,22 +135,7 @@ you can play it to the table.
 Additionally, if you can make a run/set with the opponent's DUKES,
 you can take their DUKE and play it to the table.
 
-<div style="text-align: center">
-  <a href="assets/takeDuke_pre.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/takeDuke_pre.jpg"
-      alt="taking a duke, part 1"
-    />
-  </a>
-  <a href="assets/takeDuke_post.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/takeDuke_post.jpg"
-      alt="taking a duke, part 2"
-    />
-  </a>
-</div>
+![taking a DUKE](assets/takeDuke.png)
 
 > Red creates a run of thorns to take Black's 8&#9824; DUKE.
 
@@ -163,22 +148,7 @@ This ends the game.
 you must take any DUKES guarding it
 in that same turn.
 
-<div style="text-align: center">
-  <a href="assets/takeFief_pre.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/takeFief_pre.jpg"
-      alt="complex play, part 1"
-    />
-  </a>
-  <a href="assets/takeFief_post.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/takeFief_post.jpg"
-      alt="complex play, part 1"
-    />
-  </a>
-</div>
+![taking a CASTLE](assets/takeFief.png)
 
 > Red takes Black's J&#9827; CASTLE to end the game.
   Notice that the 3&#9827; DUKE must be taken as well.
