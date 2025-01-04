@@ -18,7 +18,7 @@ The main rules page can be found [here](index.html).
 
 
 Runs and Sets
---------------------------------------------------
+==================================================
 
 <div style="text-align: center">
   <a href="assets/melds.jpg" target="_blank">
@@ -57,7 +57,7 @@ or by adding to existing ones.
 
 
 Rearranging Cards
---------------------------------------------------
+==================================================
 
 <div style="text-align: center">
   <a href="assets/rearrangeSimple_pre.jpg" target="_blank">
@@ -82,7 +82,7 @@ the remaining cards still form a valid run.
 
 
 Taking the Opponent's Cards
---------------------------------------------------
+==================================================
 
 <div style="text-align: center">
   <a href="assets/takeDuke_pre.jpg" target="_blank">
@@ -128,7 +128,7 @@ However, you must take any DUKES guarding it within the same turn.
 
 
 Defending
---------------------------------------------------
+==================================================
 
 <div style="text-align: center">
   <a href="assets/swapDuke_pre.jpg" target="_blank">
@@ -175,7 +175,7 @@ you can create a new DUKE whenever you have no DUKES.
 
 
 Discarding Off the Table
---------------------------------------------------
+==================================================
 
 <div style="text-align: center">
   <a href="assets/discardPlayed_pre.jpg" target="_blank">
@@ -201,7 +201,7 @@ the remaining cards still form a valid run of thorns.
 
 
 Playing Your CASTLE
---------------------------------------------------
+==================================================
 
 <div style="text-align: center">
   <a href="assets/useFief_pre.jpg" target="_blank">
