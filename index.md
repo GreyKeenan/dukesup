@@ -43,7 +43,7 @@ Setup
 <div style="text-align: center">
   <a href="assets/diagram.png" target="_blank">
     <img
-      width="50%"
+      width="70%"
       src="assets/diagram.png"
       alt="an example of the table during play"
     />
