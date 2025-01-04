@@ -44,10 +44,9 @@ and must be taken first.
       alt="an example of the table during play"
     />
   </a>
+</div>
 
 > This is what the game will look like after you set it up.
-
-</div>
 
 
 Setup
@@ -155,10 +154,9 @@ you can take their DUKE and play it to the table.
       alt="taking a duke, part 2"
     />
   </a>
+</div>
 
 > Red creates a run of thorns to take Black's 8&#9824; DUKE.
-
-</div>
 
 
 Similarly, if you can use the opponent's face-up CASTLE in a run/set,
@@ -182,11 +180,10 @@ you must also take all DUKES guarding it within the same turn.
       alt="complex play, part 1"
     />
   </a>
+</div>
 
 > Red takes Black's CASTLE to end the game.
   Notice that the 3&#9827; DUKE is taken as well.
-
-</div>
 
 Finally, as the above example demonstrates,
 remember that you can rearrange existing runs/sets.
