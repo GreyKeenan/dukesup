@@ -37,16 +37,14 @@ However, cards called "DUKES" protect the CASTLE,
 and must be taken first.
 
 <div style="text-align: center">
-  <a href="assets/setupUp.jpg" target="_blank">
+  <a href="assets/diagram.png" target="_blank">
     <img
       width="50%"
-      src="assets/setupUp.jpg"
+      src="assets/diagram.png"
       alt="an example of the table during play"
     />
   </a>
 </div>
-
-> This is what the game will look like after setup.
 
 
 Setup
@@ -69,6 +67,17 @@ Setup
 
 From here, the first player can start their turn.
 
+<div style="text-align: center">
+  <a href="assets/setupUp.jpg" target="_blank">
+    <img
+      width="50%"
+      src="assets/setupUp.jpg"
+      alt="an example of the table during play"
+    />
+  </a>
+</div>
+
+> It should look something like this.
 
 Taking Your Turn
 ==================================================
