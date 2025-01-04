@@ -218,26 +218,11 @@ More Examples
 
 If you're still confused, no worries.
 
-<!-- link to videos. -->
-
-For additional examples of gameplay,
-see [this page](examples.html).
+Additional gameplay examples can be found
+on [this page](examples.html).
 
 <!--
-<div style="text-align: center">
-  <a href="assets/rearrangeSimple_pre.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/rearrangeSimple_pre.jpg"
-      alt="simple rearranging example, part 1"
-    />
-  </a>
-  <a href="assets/rearrangeSimple_post.jpg" target="_blank">
-    <img
-      width="49%"
-      src="assets/rearrangeSimple_post.jpg"
-      alt="simple rearranging example, part 2"
-    />
-  </a>
-</div>
+Video examples and a tutorial
+can be found at [TODO](...).
 -->
+
