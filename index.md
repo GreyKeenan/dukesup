@@ -92,7 +92,8 @@ Choose one of the following:
 
 * Discard a card from your hand.
 * Discard a card from your draw pile.
-  Do not look at it.
+  Do not look at it,
+  and do not look through your discard pile.
 * Discard 1 of your-color cards off of the table.
   The remaining cards must be in valid runs/sets.
   [\*](examples.html#discarding-off-the-table)
@@ -176,6 +177,9 @@ remaining DUKES, and remaining CASTLES.)
 The player who eliminated their opponent's CASTLE
 gets a 3 point bonus.
 The higher score wins.
+
+In a tie, the player who took their opponent's CASTLE wins.
+(Or the player who ran out of cards wins.)
 
 
 Extra Rules
