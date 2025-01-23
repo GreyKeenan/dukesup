@@ -190,7 +190,8 @@ we *highly* recommend adding these rules
 for balancing (and fun-ness) purposes.
 
 * On the first player's first turn,
-  they can't switch out their DUKES.
+  they can't switch out their DUKES,
+  unless they are playing their DUKES directly to the table.
 * When you draw cards at the start of your turn,
   you can choose to draw from your discard pile instead.
   Then, when you discard a card from your draw pile,
