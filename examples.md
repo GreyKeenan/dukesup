@@ -2,7 +2,7 @@
 ==================================================
 
 Provided here are additional examples of "Dukes Up!" mechanics.
-The main rules page can be found [here](index.html).
+The main rules page can be found [here](index).
 
 <br>
 

@@ -5,13 +5,14 @@ Dukes Up!
 
 "Dukes Up!" is a two-player card game
 played with a standard deck.
-Inspired by "Rummy 100",
+Inspired by Manipulation Rummy,
 players arrange runs/sets on the table
 while trying to protect their CASTLES.
 Once you learn how to play,
 a single game takes about 15 minutes.
 
 > A video tutorial is on the way.
+  (maybe)
 
 <br>
 
@@ -21,7 +22,7 @@ a single game takes about 15 minutes.
 * [Taking Your Turn](#taking-your-turn)
   * [Runs, Sets, and Rearranging Cards](#runs-sets-and-rearranging-cards)
 * [Ending the Game](#ending-the-game)
-* [Extra Rules](#extra-rules)
+* [Balancing Rules](#extra-rules)
 * [More Examples](#more-examples)
 
 <br>
@@ -30,7 +31,7 @@ a single game takes about 15 minutes.
 Overview
 ==================================================
 
-Each player has a card called their "CASTLE".
+Each player has a single card called their "CASTLE".
 Your goal is to take the opponent's CASTLE
 by playing it in a run/set.
 However, cards called "DUKES" protect the CASTLE,
@@ -51,7 +52,7 @@ Setup
 1. Select 1 of the 4 cards as your CASTLE,
   and place it face-down on the table.
   Select 2 cards as your DUKES,
-  and place them face-down in front of the CASTLE.
+  and place them *face-down* in front of the CASTLE.
   The left-over card will be part of your starting hand.
 1. Once both players pick their DUKES,
   they say, "Dukes Up!" and flip them face-up in unison.
@@ -64,59 +65,59 @@ Taking Your Turn
 ==================================================
 
 Start your turn by drawing.
-Draw 2 cards at most,
-but your hand can't have more than 4 cards.
-If your draw pile is empty,
-shuffle your discard pile.
 
-Then, if you have no DUKES,
-you *must* flip your CASTLE face-up.
+* If your hand has 2 cards or fewer, you may draw 2 cards.
+* If your hand has 3 cards, you can only draw 1 card.
+* If your hand has 4 cards or more, skip drawing.
+
+If your draw pile is empty, reshuffle your discard pile.
+
+**Next, if you are out of DUKES,
+you *must* flip your CASTLE face-up**.
 Once up, it can be taken by the opponent.
 
-Next, you can play.
+Now, you can play.
 Take any combination of the following actions:
 
 * Create runs/sets using cards from your hand,
-  using the opponent's DUKES/CASTLE,
+  by taking the opponent's DUKES/CASTLE,
   or by rearranging cards on the table.
   > (See ["Runs, Sets, and Rearranging Cards"](#runs-sets-and-rearranging-cards))
-* Switch out your remaining DUKES with cards from your hand.
-  [\*](examples.html#defending)
-* If you have *no* DUKES,
-  create a new DUKE with a card from your hand.
+* Switch out your surviving DUKES with cards from your hand.
+  [(example)](examples#defending)
+  > You cannot switch out your CASTLE. \
+  > You may pick up a DUKE without replacing it,
+    but you cannot replace it on a later turn.
+* If you have *no* DUKES, create one by placing a card from your hand.
 
-Last, you must discard to end your turn.
-Cards are discarded face-down
-to your own discard pile.
+You must discard to end your turn, but before discarding,
+all cards on the table must be in legal runs/sets.
+
+Cards are discarded face-down to your own discard pile.
 Choose one of the following:
 
 * Discard a card from your hand.
 * Discard a card from your draw pile.
-  Do not look at it,
-  and do not look through your discard pile.
+  Do not look at it, and do not look through your discard pile.
 * Discard 1 of your-color cards off of the table.
-  The remaining cards must be in valid runs/sets.
-  [\*](examples.html#discarding-off-the-table)
+  The remaining cards must be in legal runs/sets.
+  [(example)](examples#discarding-off-the-table)
 
-If you don't play on your turn,
-you can discard twice.
+If you didn't play or change your DUKES, you may discard twice.
 
-Discarding ends your turn.
-The opponent can draw to start the next turn.
+Discarding ends the turn.
 
 
 Runs, Sets, and Rearranging Cards
 --------------------------------------------------
 
-A set is a group of 3+ cards
-with the same value.
+In order to play cards, you must form runs and sets.
+Runs and sets are played to a shared-table.
 
-A run is a group of 3+ cards
-with sequential values
-and coordinated suits.
-In "Dukes Up!",
-**spades/diamonds** go together
-and **clubs/hearts** go together.
+* A set is a group of 3+ cards with the same value.
+* A run is a group of 3+ cards with sequential values and matching suits.
+  In "Dukes Up!",
+  **spades/diamonds** go together and **clubs/hearts** go together.
 
 An easy way to remember which suits go together
 is to look at the suit symbol.
@@ -124,30 +125,29 @@ If the top is pointed, it's a "thorn";
 if it's rounded, it's a "flower".
 Thorns go with thorns, and flowers go with flowers.
 
-`set:` 5&#9824;, 5&#9825;, 5&#9826; \
-`run of thorns:` A&#9824;, 2&#9824;, 3&#9824;, 4&#9824; \
-`run of thorns:` 8&#9826;, 9&#9826;, 10&#9824; \
-`run of flowers:` 10&#9827;, J&#9827;, Q&#9825;, K&#9825;, A&#9827; \
-`INVALID run:` 5&#9827;, 6&#9824;, 7&#9824; \
-`INVALID run:` 6&#9825;, 8&#9825;, 9&#9825;
+> `run of thorns:` A&#9824;, 2&#9824;, 3&#9824;, 4&#9824; \
+  `run of thorns:` 8&#9826;, 9&#9826;, 10&#9824; \
+  `run of flowers:` 10&#9827;, J&#9827;, Q&#9825;, K&#9825;, A&#9827; \
+  `ILLEGAL run:` 5&#9827;, 6&#9824;, 7&#9824; \
+  `ILLEGAL run:` 6&#9825;, 8&#9825;, 9&#9825;
+>
+> `set:` 5&#9824;, 5&#9825;, 5&#9826;
 
-If you can make a run/set with cards from your hand,
-you can play it to the table.
-Additionally, if you can make a run/set with the opponent's DUKES,
-you can take their DUKE and play it to the table.
+To play cards to the table, simply arrange them face-up in a run or set.
+You may create new combinations or add to existing ones.
+Use cards from your hand, *or use the opponent's DUKES*.
+This is how you "take" the DUKES.
 
 ![taking a DUKE](assets/takeDuke.png)
 
 > Red creates a run of thorns to take Black's 8&#9824; DUKE.
 
 
-Similarly, if you can use the opponent's
-face-up CASTLE in a run/set,
+Similarly, if you can use the opponent's face-up CASTLE in a run/set,
 you can take it.
 This ends the game.
 **But**, to take a CASTLE,
-you must take any DUKES guarding it
-in that same turn.
+you must take any DUKES guarding it in the same turn.
 
 ![taking a CASTLE](assets/takeFief.png)
 
@@ -155,12 +155,11 @@ in that same turn.
   Notice that the 3&#9827; DUKE must be taken as well.
 
 Finally, as the above example demonstrates,
-remember that you can rearrange existing runs/sets.
-However, before you discard,
-*all cards on the table
-must be in valid runs/sets*.
-In other words, when you're arranging runs/sets,
-cards cannot be left out.
+you can rearrange existing runs/sets to form new ones.
+[(example)](examples#rearranging-cards)
+This is *key* to the game's strategy.
+However, remember that before you discard,
+*all cards on the table must be in legal runs/sets*.
 
 
 Ending the Game
@@ -175,14 +174,14 @@ Players get 1 point for each card of their color on the table.
 (This includes cards in runs/sets,
 remaining DUKES, and remaining CASTLES.)
 The player who eliminated their opponent's CASTLE
-gets a 3 point bonus.
+gets a 4 point bonus.
 The higher score wins.
 
 In a tie, the player who took their opponent's CASTLE wins.
 (Or the player who ran out of cards wins.)
 
 
-Extra Rules
+Balancing Rules
 ==================================================
 
 Once you've played a couple times,
@@ -211,7 +210,7 @@ hopefully this will help.
 * Video examples and a tutorial
   can be found at [TODO].
 * More examples can be found
-  at [this page](examples.html).
+  at [this page](examples).
 
 <br>
 <br>
