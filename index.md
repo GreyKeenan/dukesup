@@ -3,24 +3,21 @@ Dukes Up!
 
 > by Grey and Sam Keenan
 
-"Dukes Up!" is a two-player game
-which uses a standard deck of cards.
-Inspired by Manipulation Rummy,
-players arrange runs/sets on the table
-while trying to protect their CASTLES.
-Once you learn how to play,
-a single game takes about 15 minutes.
+"Dukes Up!" is a two-player card game, loosely inspired by Manipulation Rummy.
+Players rearrange runs/sets on the table to take the opponent's CASTLE.
+DUKES protect the CASTLE, and must be taken first.
+Once you learn how to play, a game takes about 15 to 20 minutes.
 
 > A video tutorial is on the way.
   (maybe)
 
+
 <br>
 
 <!-- INDEX -->
-* [Overview](#overview)
 * [Setup](#setup)
 * [Taking Your Turn](#taking-your-turn)
-  * [Runs, Sets, and Rearranging Cards](#runs-sets-and-rearranging-cards)
+* [Runs, Sets, and Rearranging Cards](#runs-sets-and-rearranging-cards)
 * [Ending the Game](#ending-the-game)
 * [Final Rules](#final-rules)
 * [More Examples](#more-examples)
@@ -28,12 +25,7 @@ a single game takes about 15 minutes.
 <br>
 
 
-Overview
-==================================================
-
-Each player has a single card called their "CASTLE".
-The goal is to take the opponent's CASTLE by playing it in a run/set.
-However, cards called "DUKES" protect the CASTLE and must be taken first.
+![example of how to lay out your cards](assets/diagram_short.png)
 
 
 Setup
@@ -53,8 +45,6 @@ Setup
 1. Once both players pick their DUKES,
   they say, "Dukes Up!" and flip them face-up in unison.
   The CASTLES remain face-down for now.
-
-![example of how to lay out your cards](assets/diagram_short.png)
 
 Now, the first player can start their turn.
 If you play multiple rounds, switch-off who goes first.
@@ -111,7 +101,7 @@ Discarding ends the turn.
 
 
 Runs, Sets, and Rearranging Cards
---------------------------------------------------
+==================================================
 
 In order to play cards, you must form runs and sets.
 Runs and sets are played to a shared-table.
@@ -188,8 +178,8 @@ In a tie, the player who ended the game wins.
 Final Rules
 ==================================================
 
-Once you get a hang it,
-there are a couple more rules that keep the game balanced.
+Once you get the hang of it,
+there are a couple more rules to keep the game balanced.
 
 * On the first player's first turn,
   in order to switch out a DUKE,
